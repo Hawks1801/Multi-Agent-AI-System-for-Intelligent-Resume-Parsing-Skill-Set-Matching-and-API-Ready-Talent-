@@ -1,0 +1,17 @@
+Charlie Jones
+Email: charlie.jones436@example.com
+Location: London
+
+Summary
+Experienced professional with expertise in Hugging Face, Docker, CSS3.
+
+Skills
+Hugging Face, Docker, CSS3, AWS, Azure, F#
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Hugging Face.
+- Implemented solutions in Docker.
+
+Education
+BS Computer Science | Tech University | 2014-2018

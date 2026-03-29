@@ -1,0 +1,17 @@
+David Martinez
+Email: david.martinez100@example.com
+Location: New York
+
+Summary
+Experienced professional with expertise in Angular, Terraform, Redshift.
+
+Skills
+Angular, Terraform, Redshift, Kubernetes, Keras, Fiber, Gin, Grafana, Jenkins, Deep Learning, LangChain
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Angular.
+- Implemented solutions in Terraform.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Grace Rodriguez
+Email: grace.rodriguez142@example.com
+Location: New York
+
+Summary
+Experienced professional with expertise in Cryptography, SIEM, HTML5.
+
+Skills
+Cryptography, SIEM, HTML5, Ethical Hacking, Tailwind CSS
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Cryptography.
+- Implemented solutions in SIEM.
+
+Education
+BS Computer Science | Tech University | 2014-2018

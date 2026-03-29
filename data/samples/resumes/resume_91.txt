@@ -1,0 +1,17 @@
+Charlie Smith
+Email: charlie.smith90@example.com
+Location: San Francisco
+
+Summary
+Experienced professional with expertise in Three.js, Snowflake, Swift.
+
+Skills
+Three.js, Snowflake, Swift, CircleCI, Jenkins, IDS/IPS, PHP, Cloud Security, Perl, MLflow
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Three.js.
+- Implemented solutions in Snowflake.
+
+Education
+BS Computer Science | Tech University | 2014-2018

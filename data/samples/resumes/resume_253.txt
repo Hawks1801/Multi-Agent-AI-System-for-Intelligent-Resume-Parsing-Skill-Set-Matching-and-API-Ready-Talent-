@@ -1,0 +1,17 @@
+Ivan Brown
+Email: ivan.brown252@example.com
+Location: Seattle
+
+Summary
+Experienced professional with expertise in S3, MariaDB, Ethical Hacking.
+
+Skills
+S3, MariaDB, Ethical Hacking, SQL Server, Penetration Testing, Julia, Perl, MLflow, GitLab CI, Objective-C, Scala, C++
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using S3.
+- Implemented solutions in MariaDB.
+
+Education
+BS Computer Science | Tech University | 2014-2018

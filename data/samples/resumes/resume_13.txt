@@ -1,0 +1,17 @@
+Frank Johnson
+Email: frank.johnson12@example.com
+Location: Sydney
+
+Summary
+Experienced professional with expertise in Objective-C, Istio, Cryptography.
+
+Skills
+Objective-C, Istio, Cryptography, EC2, Machine Learning, Cloud Run
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Objective-C.
+- Implemented solutions in Istio.
+
+Education
+BS Computer Science | Tech University | 2014-2018

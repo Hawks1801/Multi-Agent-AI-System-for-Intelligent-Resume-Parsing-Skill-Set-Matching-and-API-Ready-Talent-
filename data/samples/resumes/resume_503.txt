@@ -1,0 +1,17 @@
+Judy Davis
+Email: judy.davis502@example.com
+Location: Austin
+
+Summary
+Experienced professional with expertise in Redis, Perl, Echo.
+
+Skills
+Redis, Perl, Echo, DynamoDB, MLflow, PHP, COBOL
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Redis.
+- Implemented solutions in Perl.
+
+Education
+BS Computer Science | Tech University | 2014-2018

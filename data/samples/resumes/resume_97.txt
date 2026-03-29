@@ -1,0 +1,17 @@
+Heidi Martinez
+Email: heidi.martinez96@example.com
+Location: New York
+
+Summary
+Experienced professional with expertise in SIEM, Go, Julia.
+
+Skills
+SIEM, Go, Julia, BigQuery, ASP.NET Core, Phoenix
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using SIEM.
+- Implemented solutions in Go.
+
+Education
+BS Computer Science | Tech University | 2014-2018

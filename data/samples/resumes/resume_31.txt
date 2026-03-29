@@ -1,0 +1,17 @@
+Charlie Garcia
+Email: charlie.garcia30@example.com
+Location: Seattle
+
+Summary
+Experienced professional with expertise in Shell Scripting, Fargate, Pulumi.
+
+Skills
+Shell Scripting, Fargate, Pulumi, CircleCI, Phoenix, Three.js, MATLAB, Application Security, Terraform, Cassandra, LLMs
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Shell Scripting.
+- Implemented solutions in Fargate.
+
+Education
+BS Computer Science | Tech University | 2014-2018

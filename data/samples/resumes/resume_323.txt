@@ -1,0 +1,17 @@
+Eve Rodriguez
+Email: eve.rodriguez322@example.com
+Location: Seattle
+
+Summary
+Experienced professional with expertise in Django, Grafana, Jenkins.
+
+Skills
+Django, Grafana, Jenkins, OpenCV, Objective-C
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Django.
+- Implemented solutions in Grafana.
+
+Education
+BS Computer Science | Tech University | 2014-2018

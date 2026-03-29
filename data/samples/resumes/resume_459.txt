@@ -1,0 +1,17 @@
+Grace Garcia
+Email: grace.garcia458@example.com
+Location: Toronto
+
+Summary
+Experienced professional with expertise in GitHub Actions, Fastify, React.
+
+Skills
+GitHub Actions, Fastify, React, Cloud Security, Identity Management, Go, NLP
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using GitHub Actions.
+- Implemented solutions in Fastify.
+
+Education
+BS Computer Science | Tech University | 2014-2018

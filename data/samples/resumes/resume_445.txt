@@ -1,0 +1,17 @@
+Judy Smith
+Email: judy.smith444@example.com
+Location: Seattle
+
+Summary
+Experienced professional with expertise in React, ArangoDB, Next.js.
+
+Skills
+React, ArangoDB, Next.js, Redis, Gensim, Hugging Face
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using React.
+- Implemented solutions in ArangoDB.
+
+Education
+BS Computer Science | Tech University | 2014-2018

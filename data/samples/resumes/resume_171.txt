@@ -1,0 +1,17 @@
+David Jones
+Email: david.jones170@example.com
+Location: San Francisco
+
+Summary
+Experienced professional with expertise in Nmap, Fargate, Pulumi.
+
+Skills
+Nmap, Fargate, Pulumi, MariaDB, Lisp, LLMs, GitHub Actions, CSS3, Scala, PyTorch, Redux, Vuex
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Nmap.
+- Implemented solutions in Fargate.
+
+Education
+BS Computer Science | Tech University | 2014-2018

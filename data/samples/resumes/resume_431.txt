@@ -1,0 +1,17 @@
+Heidi Martinez
+Email: heidi.martinez430@example.com
+Location: Remote
+
+Summary
+Experienced professional with expertise in NumPy, Cassandra, Application Security.
+
+Skills
+NumPy, Cassandra, Application Security, Network Security, IDS/IPS, Tailwind CSS, ArangoDB
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using NumPy.
+- Implemented solutions in Cassandra.
+
+Education
+BS Computer Science | Tech University | 2014-2018

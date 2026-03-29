@@ -1,0 +1,17 @@
+Grace Miller
+Email: grace.miller412@example.com
+Location: Chicago
+
+Summary
+Experienced professional with expertise in Computer Vision, Go, Vue.js.
+
+Skills
+Computer Vision, Go, Vue.js, Spring Boot, Vuex, BigQuery, GitLab CI, Fargate, Phoenix
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Computer Vision.
+- Implemented solutions in Go.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Judy Rodriguez
+Email: judy.rodriguez404@example.com
+Location: Austin
+
+Summary
+Experienced professional with expertise in SIEM, WebAssembly, MariaDB.
+
+Skills
+SIEM, WebAssembly, MariaDB, Julia, IDS/IPS
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using SIEM.
+- Implemented solutions in WebAssembly.
+
+Education
+BS Computer Science | Tech University | 2014-2018

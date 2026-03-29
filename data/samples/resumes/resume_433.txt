@@ -1,0 +1,17 @@
+Bob Martinez
+Email: bob.martinez432@example.com
+Location: London
+
+Summary
+Experienced professional with expertise in GitHub Actions, Penetration Testing, Haskell.
+
+Skills
+GitHub Actions, Penetration Testing, Haskell, Hapi, Computer Vision, Python, Fastify, GCP, Network Security, MLflow, COBOL
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using GitHub Actions.
+- Implemented solutions in Penetration Testing.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Grace Rodriguez
+Email: grace.rodriguez410@example.com
+Location: Toronto
+
+Summary
+Experienced professional with expertise in Django, Lambda, Solidity.
+
+Skills
+Django, Lambda, Solidity, MobX, Perl, Redux, HTML5, Haskell, Prometheus, Tailwind CSS, ELK Stack, S3
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Django.
+- Implemented solutions in Lambda.
+
+Education
+BS Computer Science | Tech University | 2014-2018

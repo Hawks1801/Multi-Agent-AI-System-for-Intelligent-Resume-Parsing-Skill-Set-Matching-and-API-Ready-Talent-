@@ -1,0 +1,17 @@
+Alice Rodriguez
+Email: alice.rodriguez50@example.com
+Location: San Francisco
+
+Summary
+Experienced professional with expertise in Svelte, PostgreSQL, GitLab CI.
+
+Skills
+Svelte, PostgreSQL, GitLab CI, Cloud Security, BigQuery, Ruby, Application Security, Metasploit, PHP, Matplotlib
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Svelte.
+- Implemented solutions in PostgreSQL.
+
+Education
+BS Computer Science | Tech University | 2014-2018

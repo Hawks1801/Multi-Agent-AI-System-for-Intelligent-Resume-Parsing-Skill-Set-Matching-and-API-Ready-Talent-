@@ -1,0 +1,17 @@
+Frank Williams
+Email: frank.williams340@example.com
+Location: San Francisco
+
+Summary
+Experienced professional with expertise in BigQuery, GitHub Actions, Koa.
+
+Skills
+BigQuery, GitHub Actions, Koa, MongoDB, OpenCV, MATLAB, Penetration Testing, LESS, Pinia
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using BigQuery.
+- Implemented solutions in GitHub Actions.
+
+Education
+BS Computer Science | Tech University | 2014-2018

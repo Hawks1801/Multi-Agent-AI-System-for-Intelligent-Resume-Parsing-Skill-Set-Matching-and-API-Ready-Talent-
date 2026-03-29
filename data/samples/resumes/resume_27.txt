@@ -1,0 +1,17 @@
+Ivan Smith
+Email: ivan.smith26@example.com
+Location: Remote
+
+Summary
+Experienced professional with expertise in NLTK, Rust, COBOL.
+
+Skills
+NLTK, Rust, COBOL, Ember.js, C++, CircleCI, Vue.js, React, Metasploit
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using NLTK.
+- Implemented solutions in Rust.
+
+Education
+BS Computer Science | Tech University | 2014-2018

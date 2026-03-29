@@ -1,0 +1,17 @@
+David Rodriguez
+Email: david.rodriguez346@example.com
+Location: London
+
+Summary
+Experienced professional with expertise in TensorFlow, TypeScript, Django.
+
+Skills
+TensorFlow, TypeScript, Django, OpenCV, Reinforcement Learning, Deep Learning, CSS3, COBOL, Ruby, NumPy, Echo
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using TensorFlow.
+- Implemented solutions in TypeScript.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Heidi Rodriguez
+Email: heidi.rodriguez172@example.com
+Location: London
+
+Summary
+Experienced professional with expertise in SQL Server, Elasticsearch, Fastify.
+
+Skills
+SQL Server, Elasticsearch, Fastify, NumPy, Matplotlib, Metasploit, PostgreSQL, Kubeflow, Application Security, Pinia, WebAssembly
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using SQL Server.
+- Implemented solutions in Elasticsearch.
+
+Education
+BS Computer Science | Tech University | 2014-2018

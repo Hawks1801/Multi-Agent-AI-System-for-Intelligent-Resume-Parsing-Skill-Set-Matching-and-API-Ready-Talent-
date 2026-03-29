@@ -1,0 +1,17 @@
+Judy Martinez
+Email: judy.martinez218@example.com
+Location: San Francisco
+
+Summary
+Experienced professional with expertise in MySQL, Terraform, Spring Boot.
+
+Skills
+MySQL, Terraform, Spring Boot, Ember.js, Tailwind CSS, Swift, Reinforcement Learning, Ruby
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using MySQL.
+- Implemented solutions in Terraform.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Frank Smith
+Email: frank.smith466@example.com
+Location: Seattle
+
+Summary
+Experienced professional with expertise in GCP, NLP, Scala.
+
+Skills
+GCP, NLP, Scala, Gensim, Redshift, Ruby on Rails
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using GCP.
+- Implemented solutions in NLP.
+
+Education
+BS Computer Science | Tech University | 2014-2018

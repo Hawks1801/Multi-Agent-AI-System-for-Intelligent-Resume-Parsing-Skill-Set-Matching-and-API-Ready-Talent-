@@ -1,0 +1,17 @@
+Judy Miller
+Email: judy.miller482@example.com
+Location: San Francisco
+
+Summary
+Experienced professional with expertise in Cloud Security, Ruby, Kubernetes.
+
+Skills
+Cloud Security, Ruby, Kubernetes, Lambda, Redis, Fastify, Neo4j, Keras, LLMs
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Cloud Security.
+- Implemented solutions in Ruby.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Eve Miller
+Email: eve.miller368@example.com
+Location: Chicago
+
+Summary
+Experienced professional with expertise in Serverless, LLMs, Bootstrap.
+
+Skills
+Serverless, LLMs, Bootstrap, Python, MariaDB, Cloud Run, GitLab CI
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Serverless.
+- Implemented solutions in LLMs.
+
+Education
+BS Computer Science | Tech University | 2014-2018

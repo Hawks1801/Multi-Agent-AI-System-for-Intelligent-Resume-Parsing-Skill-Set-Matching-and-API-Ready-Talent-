@@ -1,0 +1,17 @@
+Grace Brown
+Email: grace.brown176@example.com
+Location: Chicago
+
+Summary
+Experienced professional with expertise in SQLite, HTML5, Laravel.
+
+Skills
+SQLite, HTML5, Laravel, ArangoDB, Objective-C, Jenkins, Cloud Run, Ansible, PyTorch, Zustand, Machine Learning
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using SQLite.
+- Implemented solutions in HTML5.
+
+Education
+BS Computer Science | Tech University | 2014-2018

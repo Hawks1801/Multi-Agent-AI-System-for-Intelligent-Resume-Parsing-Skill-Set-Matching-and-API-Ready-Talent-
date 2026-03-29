@@ -1,0 +1,17 @@
+Grace Rodriguez
+Email: grace.rodriguez180@example.com
+Location: Chicago
+
+Summary
+Experienced professional with expertise in Spacy, C++, Tailwind CSS.
+
+Skills
+Spacy, C++, Tailwind CSS, Zero Trust, LLMs, Svelte, RDS, Spring Boot, Redux, S3, CSS3
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Spacy.
+- Implemented solutions in C++.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Bob Martinez
+Email: bob.martinez214@example.com
+Location: Austin
+
+Summary
+Experienced professional with expertise in Express.js, Azure, MATLAB.
+
+Skills
+Express.js, Azure, MATLAB, GCP, Ruby, Rust, Machine Learning, Serverless
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Express.js.
+- Implemented solutions in Azure.
+
+Education
+BS Computer Science | Tech University | 2014-2018

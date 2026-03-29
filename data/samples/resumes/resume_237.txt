@@ -1,0 +1,17 @@
+Charlie Williams
+Email: charlie.williams236@example.com
+Location: London
+
+Summary
+Experienced professional with expertise in EC2, Phoenix, Serverless.
+
+Skills
+EC2, Phoenix, Serverless, Elasticsearch, DynamoDB, Tailwind CSS, Vue.js
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using EC2.
+- Implemented solutions in Phoenix.
+
+Education
+BS Computer Science | Tech University | 2014-2018

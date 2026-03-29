@@ -1,0 +1,17 @@
+Alice Brown
+Email: alice.brown318@example.com
+Location: Toronto
+
+Summary
+Experienced professional with expertise in Application Security, Linkerd, Spacy.
+
+Skills
+Application Security, Linkerd, Spacy, MySQL, Ruby on Rails, Swift, Jenkins, Ethical Hacking, Echo, EC2, GCP
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Application Security.
+- Implemented solutions in Linkerd.
+
+Education
+BS Computer Science | Tech University | 2014-2018

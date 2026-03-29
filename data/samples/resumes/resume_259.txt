@@ -1,0 +1,17 @@
+Alice Martinez
+Email: alice.martinez258@example.com
+Location: Sydney
+
+Summary
+Experienced professional with expertise in Next.js, Julia, ArangoDB.
+
+Skills
+Next.js, Julia, ArangoDB, Ruby, Application Security, SQLite, DynamoDB, Oracle, Pandas
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Next.js.
+- Implemented solutions in Julia.
+
+Education
+BS Computer Science | Tech University | 2014-2018

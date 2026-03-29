@@ -1,0 +1,17 @@
+Charlie Brown
+Email: charlie.brown332@example.com
+Location: New York
+
+Summary
+Experienced professional with expertise in BigQuery, GCP, Objective-C.
+
+Skills
+BigQuery, GCP, Objective-C, PHP, SQLite, Azure, SIEM, Prolog, Swift
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using BigQuery.
+- Implemented solutions in GCP.
+
+Education
+BS Computer Science | Tech University | 2014-2018

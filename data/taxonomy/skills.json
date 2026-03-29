@@ -1,0 +1,67 @@
+{
+  "Technical Skills": {
+    "Programming Languages": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "C++",
+      "Go",
+      "Rust",
+      "TypeScript",
+      "Ruby",
+      "PHP",
+      "Swift",
+      "Kotlin"
+    ],
+    "Frameworks & Libraries": {
+      "Web": [
+        "React",
+        "Angular",
+        "Vue.js",
+        "Django",
+        "Flask",
+        "FastAPI",
+        "Spring Boot",
+        "Next.js",
+        "Express.js"
+      ],
+      "Data Science & AI": [
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "Pandas",
+        "NumPy",
+        "Keras",
+        "Hugging Face"
+      ]
+    },
+    "Cloud & Infrastructure": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Ansible",
+      "Jenkins",
+      "GitHub Actions"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Redis",
+      "Elasticsearch",
+      "Cassandra",
+      "DynamoDB"
+    ]
+  },
+  "Soft Skills": [
+    "Communication",
+    "Leadership",
+    "Problem Solving",
+    "Teamwork",
+    "Agile Methodology",
+    "Project Management"
+  ]
+}

@@ -1,0 +1,17 @@
+Judy Martinez
+Email: judy.martinez254@example.com
+Location: Toronto
+
+Summary
+Experienced professional with expertise in GitLab CI, Serverless, Jenkins.
+
+Skills
+GitLab CI, Serverless, Jenkins, GitHub Actions, DynamoDB, Spring Boot, IDS/IPS, Prolog, JavaScript, Erlang, SASS
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using GitLab CI.
+- Implemented solutions in Serverless.
+
+Education
+BS Computer Science | Tech University | 2014-2018

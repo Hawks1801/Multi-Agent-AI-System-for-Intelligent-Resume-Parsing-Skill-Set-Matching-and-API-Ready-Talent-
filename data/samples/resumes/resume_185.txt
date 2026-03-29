@@ -1,0 +1,17 @@
+Eve Garcia
+Email: eve.garcia184@example.com
+Location: Seattle
+
+Summary
+Experienced professional with expertise in MLflow, C#, IDS/IPS.
+
+Skills
+MLflow, C#, IDS/IPS, Terraform, Rust, Dart, Docker
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using MLflow.
+- Implemented solutions in C#.
+
+Education
+BS Computer Science | Tech University | 2014-2018

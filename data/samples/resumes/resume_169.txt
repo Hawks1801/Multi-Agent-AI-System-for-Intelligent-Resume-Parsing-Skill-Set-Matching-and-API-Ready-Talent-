@@ -1,0 +1,17 @@
+Eve Brown
+Email: eve.brown168@example.com
+Location: London
+
+Summary
+Experienced professional with expertise in Spring Boot, FastAPI, MLflow.
+
+Skills
+Spring Boot, FastAPI, MLflow, GCP, Dart, Recoil
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Spring Boot.
+- Implemented solutions in FastAPI.
+
+Education
+BS Computer Science | Tech University | 2014-2018

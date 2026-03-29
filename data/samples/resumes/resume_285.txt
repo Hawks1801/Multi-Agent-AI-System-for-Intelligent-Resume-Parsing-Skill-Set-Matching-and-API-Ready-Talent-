@@ -1,0 +1,17 @@
+Heidi Miller
+Email: heidi.miller284@example.com
+Location: Sydney
+
+Summary
+Experienced professional with expertise in Keras, MobX, DynamoDB.
+
+Skills
+Keras, MobX, DynamoDB, Spring Boot, Redis, SASS, Lambda, Ethical Hacking
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Keras.
+- Implemented solutions in MobX.
+
+Education
+BS Computer Science | Tech University | 2014-2018

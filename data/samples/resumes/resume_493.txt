@@ -1,0 +1,17 @@
+David Williams
+Email: david.williams492@example.com
+Location: Sydney
+
+Summary
+Experienced professional with expertise in ArangoDB, Angular, F#.
+
+Skills
+ArangoDB, Angular, F#, Bootstrap, Hugging Face, IDS/IPS, Deep Learning, GCP, Recoil, PostgreSQL
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using ArangoDB.
+- Implemented solutions in Angular.
+
+Education
+BS Computer Science | Tech University | 2014-2018

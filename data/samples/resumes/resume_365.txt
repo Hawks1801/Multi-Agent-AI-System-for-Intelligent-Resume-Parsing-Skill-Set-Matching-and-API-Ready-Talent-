@@ -1,0 +1,17 @@
+David Jones
+Email: david.jones364@example.com
+Location: New York
+
+Summary
+Experienced professional with expertise in Assembly, Redux, Machine Learning.
+
+Skills
+Assembly, Redux, Machine Learning, MATLAB, Kubeflow, MariaDB
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Assembly.
+- Implemented solutions in Redux.
+
+Education
+BS Computer Science | Tech University | 2014-2018

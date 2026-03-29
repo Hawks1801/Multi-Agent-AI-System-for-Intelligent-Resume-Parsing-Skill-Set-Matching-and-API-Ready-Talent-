@@ -1,0 +1,17 @@
+Eve Brown
+Email: eve.brown248@example.com
+Location: London
+
+Summary
+Experienced professional with expertise in Erlang, Application Security, Recoil.
+
+Skills
+Erlang, Application Security, Recoil, Serverless, Spring Boot, Reinforcement Learning, Spacy, PyTorch, Pinia, Identity Management
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Erlang.
+- Implemented solutions in Application Security.
+
+Education
+BS Computer Science | Tech University | 2014-2018

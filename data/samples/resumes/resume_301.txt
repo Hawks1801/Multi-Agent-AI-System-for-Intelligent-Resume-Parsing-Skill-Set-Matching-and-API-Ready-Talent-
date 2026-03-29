@@ -1,0 +1,17 @@
+David Miller
+Email: david.miller300@example.com
+Location: Remote
+
+Summary
+Experienced professional with expertise in Wireshark, PHP, NLP.
+
+Skills
+Wireshark, PHP, NLP, Svelte, MobX, Serverless, Gensim, Computer Vision, Fastify, MLOps
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Wireshark.
+- Implemented solutions in PHP.
+
+Education
+BS Computer Science | Tech University | 2014-2018

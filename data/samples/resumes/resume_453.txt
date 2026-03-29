@@ -1,0 +1,17 @@
+Grace Martinez
+Email: grace.martinez452@example.com
+Location: Toronto
+
+Summary
+Experienced professional with expertise in Spring Boot, FastAPI, TensorFlow.
+
+Skills
+Spring Boot, FastAPI, TensorFlow, Pinia, BigQuery, Scala, Perl, Oracle, Laravel, Linkerd, Jenkins, OpenCV
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Spring Boot.
+- Implemented solutions in FastAPI.
+
+Education
+BS Computer Science | Tech University | 2014-2018

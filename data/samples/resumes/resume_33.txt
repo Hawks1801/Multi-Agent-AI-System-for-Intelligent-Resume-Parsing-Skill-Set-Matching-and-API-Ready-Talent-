@@ -1,0 +1,17 @@
+Frank Garcia
+Email: frank.garcia32@example.com
+Location: Berlin
+
+Summary
+Experienced professional with expertise in F#, Metasploit, Pandas.
+
+Skills
+F#, Metasploit, Pandas, SQLite, Vue.js, EC2
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using F#.
+- Implemented solutions in Metasploit.
+
+Education
+BS Computer Science | Tech University | 2014-2018

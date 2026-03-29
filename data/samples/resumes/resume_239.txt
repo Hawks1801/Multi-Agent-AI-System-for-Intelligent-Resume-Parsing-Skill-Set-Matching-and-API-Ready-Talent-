@@ -1,0 +1,17 @@
+Bob Martinez
+Email: bob.martinez238@example.com
+Location: Seattle
+
+Summary
+Experienced professional with expertise in Julia, Java, Swift.
+
+Skills
+Julia, Java, Swift, Gensim, Solidity, ArangoDB, Fargate, Jenkins, Identity Management
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Julia.
+- Implemented solutions in Java.
+
+Education
+BS Computer Science | Tech University | 2014-2018

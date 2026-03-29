@@ -1,0 +1,17 @@
+Judy Smith
+Email: judy.smith286@example.com
+Location: Berlin
+
+Summary
+Experienced professional with expertise in Recoil, Seaborn, MLOps.
+
+Skills
+Recoil, Seaborn, MLOps, Oracle, Deep Learning, JavaScript, C++, Bootstrap
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Recoil.
+- Implemented solutions in Seaborn.
+
+Education
+BS Computer Science | Tech University | 2014-2018

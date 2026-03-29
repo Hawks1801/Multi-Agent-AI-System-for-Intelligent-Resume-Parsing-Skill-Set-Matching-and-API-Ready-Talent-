@@ -1,0 +1,17 @@
+Judy Johnson
+Email: judy.johnson36@example.com
+Location: Chicago
+
+Summary
+Experienced professional with expertise in Azure, Lisp, Scikit-learn.
+
+Skills
+Azure, Lisp, Scikit-learn, Redux, Lambda, DynamoDB, Scala
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Azure.
+- Implemented solutions in Lisp.
+
+Education
+BS Computer Science | Tech University | 2014-2018

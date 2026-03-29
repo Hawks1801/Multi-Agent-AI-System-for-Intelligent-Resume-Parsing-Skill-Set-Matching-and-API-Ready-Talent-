@@ -1,0 +1,17 @@
+Heidi Garcia
+Email: heidi.garcia468@example.com
+Location: Chicago
+
+Summary
+Experienced professional with expertise in Vuex, Computer Vision, Kubernetes.
+
+Skills
+Vuex, Computer Vision, Kubernetes, R, CircleCI, Laravel, EC2, Solidity, Nuxt.js, Python, Node.js, Svelte
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Vuex.
+- Implemented solutions in Computer Vision.
+
+Education
+BS Computer Science | Tech University | 2014-2018

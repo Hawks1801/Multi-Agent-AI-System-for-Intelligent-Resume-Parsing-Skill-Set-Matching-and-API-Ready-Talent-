@@ -1,0 +1,17 @@
+David Rodriguez
+Email: david.rodriguez78@example.com
+Location: Seattle
+
+Summary
+Experienced professional with expertise in Seaborn, F#, Julia.
+
+Skills
+Seaborn, F#, Julia, Vyper, MLflow, Application Security, Django, Tailwind CSS, Gin, Cloud Security, ClickHouse
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Seaborn.
+- Implemented solutions in F#.
+
+Education
+BS Computer Science | Tech University | 2014-2018

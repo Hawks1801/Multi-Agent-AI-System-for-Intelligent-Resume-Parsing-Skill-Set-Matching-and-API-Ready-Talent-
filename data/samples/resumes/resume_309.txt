@@ -1,0 +1,17 @@
+Ivan Smith
+Email: ivan.smith308@example.com
+Location: London
+
+Summary
+Experienced professional with expertise in GCP, Oracle, Nmap.
+
+Skills
+GCP, Oracle, Nmap, Kubeflow, Docker, SASS, Jenkins
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using GCP.
+- Implemented solutions in Oracle.
+
+Education
+BS Computer Science | Tech University | 2014-2018

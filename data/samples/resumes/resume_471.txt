@@ -1,0 +1,17 @@
+Judy Jones
+Email: judy.jones470@example.com
+Location: New York
+
+Summary
+Experienced professional with expertise in Zero Trust, Grafana, SQL Server.
+
+Skills
+Zero Trust, Grafana, SQL Server, Nuxt.js, Ruby on Rails, GitLab CI
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Zero Trust.
+- Implemented solutions in Grafana.
+
+Education
+BS Computer Science | Tech University | 2014-2018

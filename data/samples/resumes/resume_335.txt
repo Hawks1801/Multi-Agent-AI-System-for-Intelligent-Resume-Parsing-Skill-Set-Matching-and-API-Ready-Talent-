@@ -1,0 +1,17 @@
+Judy Rodriguez
+Email: judy.rodriguez334@example.com
+Location: San Francisco
+
+Summary
+Experienced professional with expertise in Matplotlib, PyTorch, GCP.
+
+Skills
+Matplotlib, PyTorch, GCP, SQL Server, NLTK, Redis, Elasticsearch, JavaScript
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Matplotlib.
+- Implemented solutions in PyTorch.
+
+Education
+BS Computer Science | Tech University | 2014-2018

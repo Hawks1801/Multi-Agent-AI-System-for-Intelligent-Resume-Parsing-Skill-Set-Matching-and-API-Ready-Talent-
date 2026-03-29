@@ -1,0 +1,17 @@
+Charlie Brown
+Email: charlie.brown282@example.com
+Location: San Francisco
+
+Summary
+Experienced professional with expertise in Vyper, BigQuery, Prometheus.
+
+Skills
+Vyper, BigQuery, Prometheus, Keras, Recoil, Lambda, MLOps, ArangoDB, SQLite, Cryptography
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Vyper.
+- Implemented solutions in BigQuery.
+
+Education
+BS Computer Science | Tech University | 2014-2018

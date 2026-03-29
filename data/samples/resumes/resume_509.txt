@@ -1,0 +1,17 @@
+Heidi Davis
+Email: heidi.davis508@example.com
+Location: Sydney
+
+Summary
+Experienced professional with expertise in Laravel, Scikit-learn, Vuex.
+
+Skills
+Laravel, Scikit-learn, Vuex, Flask, IDS/IPS, Solidity, LESS
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Laravel.
+- Implemented solutions in Scikit-learn.
+
+Education
+BS Computer Science | Tech University | 2014-2018

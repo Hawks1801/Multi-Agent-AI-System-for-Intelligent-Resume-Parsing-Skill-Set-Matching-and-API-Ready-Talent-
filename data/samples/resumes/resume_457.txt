@@ -1,0 +1,17 @@
+Charlie Smith
+Email: charlie.smith456@example.com
+Location: New York
+
+Summary
+Experienced professional with expertise in MongoDB, Redis, Spring Boot.
+
+Skills
+MongoDB, Redis, Spring Boot, Azure, Cryptography, TypeScript, Recoil, Hugging Face, Three.js, Cloud Security
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using MongoDB.
+- Implemented solutions in Redis.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Heidi Brown
+Email: heidi.brown92@example.com
+Location: Berlin
+
+Summary
+Experienced professional with expertise in Gensim, Fargate, Django.
+
+Skills
+Gensim, Fargate, Django, Gin, GCP, C++
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Gensim.
+- Implemented solutions in Fargate.
+
+Education
+BS Computer Science | Tech University | 2014-2018

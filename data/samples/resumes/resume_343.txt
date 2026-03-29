@@ -1,0 +1,17 @@
+Grace Williams
+Email: grace.williams342@example.com
+Location: Chicago
+
+Summary
+Experienced professional with expertise in Computer Vision, JavaScript, S3.
+
+Skills
+Computer Vision, JavaScript, S3, BigQuery, Cryptography, Ruby, DynamoDB, Phoenix
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Computer Vision.
+- Implemented solutions in JavaScript.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Grace Smith
+Email: grace.smith158@example.com
+Location: Austin
+
+Summary
+Experienced professional with expertise in DynamoDB, Seaborn, HTML5.
+
+Skills
+DynamoDB, Seaborn, HTML5, Identity Management, Svelte, LESS, C++, TypeScript, Lambda, Koa, MariaDB, Vyper
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using DynamoDB.
+- Implemented solutions in Seaborn.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Judy Smith
+Email: judy.smith74@example.com
+Location: Sydney
+
+Summary
+Experienced professional with expertise in WebAssembly, Backbone.js, Hapi.
+
+Skills
+WebAssembly, Backbone.js, Hapi, SIEM, MATLAB, Prometheus, S3
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using WebAssembly.
+- Implemented solutions in Backbone.js.
+
+Education
+BS Computer Science | Tech University | 2014-2018

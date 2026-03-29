@@ -1,0 +1,17 @@
+Charlie Williams
+Email: charlie.williams70@example.com
+Location: London
+
+Summary
+Experienced professional with expertise in Erlang, Redux, Phoenix.
+
+Skills
+Erlang, Redux, Phoenix, Java, Terraform, Node.js, Perl
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Erlang.
+- Implemented solutions in Redux.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+David Jones
+Email: david.jones406@example.com
+Location: Berlin
+
+Summary
+Experienced professional with expertise in Pulumi, Next.js, Neo4j.
+
+Skills
+Pulumi, Next.js, Neo4j, Pandas, Kubernetes, Grafana, ClickHouse, Three.js
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Pulumi.
+- Implemented solutions in Next.js.
+
+Education
+BS Computer Science | Tech University | 2014-2018

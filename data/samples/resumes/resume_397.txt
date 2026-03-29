@@ -1,0 +1,17 @@
+Alice Smith
+Email: alice.smith396@example.com
+Location: London
+
+Summary
+Experienced professional with expertise in Cloud Run, TensorFlow, Matplotlib.
+
+Skills
+Cloud Run, TensorFlow, Matplotlib, Machine Learning, LangChain, Metasploit
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Cloud Run.
+- Implemented solutions in TensorFlow.
+
+Education
+BS Computer Science | Tech University | 2014-2018

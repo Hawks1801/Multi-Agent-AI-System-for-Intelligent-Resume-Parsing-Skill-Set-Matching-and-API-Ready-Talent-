@@ -1,0 +1,17 @@
+Bob Garcia
+Email: bob.garcia46@example.com
+Location: Toronto
+
+Summary
+Experienced professional with expertise in PostgreSQL, Swift, Jenkins.
+
+Skills
+PostgreSQL, Swift, Jenkins, Svelte, Laravel, Julia, FastAPI, C#, GCP, Computer Vision
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using PostgreSQL.
+- Implemented solutions in Swift.
+
+Education
+BS Computer Science | Tech University | 2014-2018

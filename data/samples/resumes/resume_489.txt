@@ -1,0 +1,17 @@
+Heidi Brown
+Email: heidi.brown488@example.com
+Location: San Francisco
+
+Summary
+Experienced professional with expertise in ASP.NET Core, Lisp, Linkerd.
+
+Skills
+ASP.NET Core, Lisp, Linkerd, Snowflake, Matplotlib, Fargate, Hugging Face, MariaDB, Node.js, Swift
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using ASP.NET Core.
+- Implemented solutions in Lisp.
+
+Education
+BS Computer Science | Tech University | 2014-2018

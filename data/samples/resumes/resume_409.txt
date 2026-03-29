@@ -1,0 +1,17 @@
+Grace Rodriguez
+Email: grace.rodriguez408@example.com
+Location: Austin
+
+Summary
+Experienced professional with expertise in HTML5, Oracle, Fastify.
+
+Skills
+HTML5, Oracle, Fastify, Serverless, Rust, LESS, Application Security, Lambda
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using HTML5.
+- Implemented solutions in Oracle.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Ivan Martinez
+Email: ivan.martinez58@example.com
+Location: London
+
+Summary
+Experienced professional with expertise in Vuex, Svelte, MobX.
+
+Skills
+Vuex, Svelte, MobX, Ruby, SASS, Lambda
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Vuex.
+- Implemented solutions in Svelte.
+
+Education
+BS Computer Science | Tech University | 2014-2018

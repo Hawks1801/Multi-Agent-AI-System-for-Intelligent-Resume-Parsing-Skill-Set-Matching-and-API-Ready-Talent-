@@ -1,0 +1,17 @@
+Eve Garcia
+Email: eve.garcia192@example.com
+Location: Seattle
+
+Summary
+Experienced professional with expertise in Django, Serverless, Swift.
+
+Skills
+Django, Serverless, Swift, Deep Learning, Kubernetes, SIEM, Application Security, LESS
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Django.
+- Implemented solutions in Serverless.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Charlie Jones
+Email: charlie.jones388@example.com
+Location: Austin
+
+Summary
+Experienced professional with expertise in Seaborn, Svelte, Kotlin.
+
+Skills
+Seaborn, Svelte, Kotlin, Fargate, Fastify, ELK Stack, S3, Ethical Hacking, Express.js, Linkerd, Terraform
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Seaborn.
+- Implemented solutions in Svelte.
+
+Education
+BS Computer Science | Tech University | 2014-2018

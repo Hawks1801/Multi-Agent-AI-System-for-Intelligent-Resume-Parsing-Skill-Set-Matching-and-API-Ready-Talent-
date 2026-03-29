@@ -1,0 +1,17 @@
+Grace Martinez
+Email: grace.martinez240@example.com
+Location: Seattle
+
+Summary
+Experienced professional with expertise in Network Security, Neo4j, Swift.
+
+Skills
+Network Security, Neo4j, Swift, BigQuery, LLMs, Echo, Phoenix, Computer Vision, Vyper
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Network Security.
+- Implemented solutions in Neo4j.
+
+Education
+BS Computer Science | Tech University | 2014-2018

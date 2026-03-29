@@ -1,0 +1,17 @@
+Frank Davis
+Email: frank.davis294@example.com
+Location: Remote
+
+Summary
+Experienced professional with expertise in Kotlin, CircleCI, ASP.NET Core.
+
+Skills
+Kotlin, CircleCI, ASP.NET Core, Erlang, MobX, HTML5, MariaDB, NestJS
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Kotlin.
+- Implemented solutions in CircleCI.
+
+Education
+BS Computer Science | Tech University | 2014-2018

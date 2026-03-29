@@ -1,0 +1,17 @@
+Judy Johnson
+Email: judy.johnson22@example.com
+Location: Austin
+
+Summary
+Experienced professional with expertise in CircleCI, Application Security, Serverless.
+
+Skills
+CircleCI, Application Security, Serverless, Redis, Reinforcement Learning
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using CircleCI.
+- Implemented solutions in Application Security.
+
+Education
+BS Computer Science | Tech University | 2014-2018

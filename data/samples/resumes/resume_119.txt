@@ -1,0 +1,17 @@
+Eve Jones
+Email: eve.jones118@example.com
+Location: Toronto
+
+Summary
+Experienced professional with expertise in HTML5, Azure, RDS.
+
+Skills
+HTML5, Azure, RDS, Prolog, Ember.js, MATLAB, FastAPI, Reinforcement Learning, Recoil, BigQuery, MongoDB
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using HTML5.
+- Implemented solutions in Azure.
+
+Education
+BS Computer Science | Tech University | 2014-2018

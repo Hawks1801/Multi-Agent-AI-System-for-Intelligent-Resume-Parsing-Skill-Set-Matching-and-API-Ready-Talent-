@@ -1,0 +1,17 @@
+David Williams
+Email: david.williams422@example.com
+Location: New York
+
+Summary
+Experienced professional with expertise in Prometheus, PyTorch, FastAPI.
+
+Skills
+Prometheus, PyTorch, FastAPI, Bootstrap, Flask, Fargate, Node.js
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Prometheus.
+- Implemented solutions in PyTorch.
+
+Education
+BS Computer Science | Tech University | 2014-2018

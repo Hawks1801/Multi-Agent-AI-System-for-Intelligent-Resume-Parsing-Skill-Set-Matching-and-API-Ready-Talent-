@@ -1,0 +1,17 @@
+Frank Johnson
+Email: frank.johnson278@example.com
+Location: Berlin
+
+Summary
+Experienced professional with expertise in Laravel, COBOL, Perl.
+
+Skills
+Laravel, COBOL, Perl, ArangoDB, Fiber, Scala, SQLite, Julia
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Laravel.
+- Implemented solutions in COBOL.
+
+Education
+BS Computer Science | Tech University | 2014-2018

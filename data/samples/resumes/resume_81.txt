@@ -1,0 +1,17 @@
+Judy Garcia
+Email: judy.garcia80@example.com
+Location: Chicago
+
+Summary
+Experienced professional with expertise in Terraform, Prolog, Pandas.
+
+Skills
+Terraform, Prolog, Pandas, Gensim, Linkerd
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Terraform.
+- Implemented solutions in Prolog.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+David Johnson
+Email: david.johnson102@example.com
+Location: London
+
+Summary
+Experienced professional with expertise in Express.js, MLOps, C++.
+
+Skills
+Express.js, MLOps, C++, Terraform, Redis
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Express.js.
+- Implemented solutions in MLOps.
+
+Education
+BS Computer Science | Tech University | 2014-2018

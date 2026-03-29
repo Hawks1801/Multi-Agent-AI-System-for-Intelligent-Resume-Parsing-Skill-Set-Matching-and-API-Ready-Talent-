@@ -1,0 +1,17 @@
+Grace Brown
+Email: grace.brown232@example.com
+Location: San Francisco
+
+Summary
+Experienced professional with expertise in MLOps, Identity Management, TensorFlow.
+
+Skills
+MLOps, Identity Management, TensorFlow, Objective-C, Cryptography, Tailwind CSS, JavaScript, Kubeflow, Fargate, SASS, Solidity, F#
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using MLOps.
+- Implemented solutions in Identity Management.
+
+Education
+BS Computer Science | Tech University | 2014-2018

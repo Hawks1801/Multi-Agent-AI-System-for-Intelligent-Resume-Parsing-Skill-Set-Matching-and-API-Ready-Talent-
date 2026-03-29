@@ -1,0 +1,17 @@
+Charlie Johnson
+Email: charlie.johnson464@example.com
+Location: Chicago
+
+Summary
+Experienced professional with expertise in Linkerd, Rust, Objective-C.
+
+Skills
+Linkerd, Rust, Objective-C, Erlang, CircleCI, Fortran, Fiber, ELK Stack, Backbone.js, Zero Trust, Tailwind CSS, Pulumi
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Linkerd.
+- Implemented solutions in Rust.
+
+Education
+BS Computer Science | Tech University | 2014-2018

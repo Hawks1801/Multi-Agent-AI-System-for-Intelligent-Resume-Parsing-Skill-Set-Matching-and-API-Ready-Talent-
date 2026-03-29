@@ -1,0 +1,17 @@
+Grace Miller
+Email: grace.miller510@example.com
+Location: Berlin
+
+Summary
+Experienced professional with expertise in Application Security, Zero Trust, Recoil.
+
+Skills
+Application Security, Zero Trust, Recoil, R, Kotlin
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Application Security.
+- Implemented solutions in Zero Trust.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Ivan Smith
+Email: ivan.smith498@example.com
+Location: San Francisco
+
+Summary
+Experienced professional with expertise in Cloud Run, Metasploit, Penetration Testing.
+
+Skills
+Cloud Run, Metasploit, Penetration Testing, Cryptography, Angular, Linkerd, DynamoDB
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Cloud Run.
+- Implemented solutions in Metasploit.
+
+Education
+BS Computer Science | Tech University | 2014-2018

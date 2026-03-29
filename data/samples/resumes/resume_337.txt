@@ -1,0 +1,17 @@
+Frank Williams
+Email: frank.williams336@example.com
+Location: Seattle
+
+Summary
+Experienced professional with expertise in Prolog, Ruby, Vuex.
+
+Skills
+Prolog, Ruby, Vuex, Ansible, Gin, Objective-C, ELK Stack, Cryptography
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Prolog.
+- Implemented solutions in Ruby.
+
+Education
+BS Computer Science | Tech University | 2014-2018

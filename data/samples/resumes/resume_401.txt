@@ -1,0 +1,17 @@
+Judy Davis
+Email: judy.davis400@example.com
+Location: Sydney
+
+Summary
+Experienced professional with expertise in Jenkins, Hapi, Lambda.
+
+Skills
+Jenkins, Hapi, Lambda, Erlang, Solidity
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Jenkins.
+- Implemented solutions in Hapi.
+
+Education
+BS Computer Science | Tech University | 2014-2018

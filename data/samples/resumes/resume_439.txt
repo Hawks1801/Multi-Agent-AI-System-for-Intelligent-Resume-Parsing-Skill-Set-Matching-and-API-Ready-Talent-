@@ -1,0 +1,17 @@
+Charlie Martinez
+Email: charlie.martinez438@example.com
+Location: Berlin
+
+Summary
+Experienced professional with expertise in HTML5, Python, Lambda.
+
+Skills
+HTML5, Python, Lambda, SQL Server, Zero Trust, ClickHouse, Ember.js, MySQL, React
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using HTML5.
+- Implemented solutions in Python.
+
+Education
+BS Computer Science | Tech University | 2014-2018

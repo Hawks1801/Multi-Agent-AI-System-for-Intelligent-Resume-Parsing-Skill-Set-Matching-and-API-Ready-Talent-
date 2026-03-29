@@ -1,0 +1,17 @@
+Charlie Davis
+Email: charlie.davis0@example.com
+Location: Seattle
+
+Summary
+Experienced professional with expertise in Deep Learning, Ethical Hacking, Backbone.js.
+
+Skills
+Deep Learning, Ethical Hacking, Backbone.js, C#, MLflow, Flask, Nuxt.js, Elasticsearch, R
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Deep Learning.
+- Implemented solutions in Ethical Hacking.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Heidi Davis
+Email: heidi.davis268@example.com
+Location: San Francisco
+
+Summary
+Experienced professional with expertise in MLOps, DynamoDB, Linkerd.
+
+Skills
+MLOps, DynamoDB, Linkerd, Dart, Prometheus, Fiber
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using MLOps.
+- Implemented solutions in DynamoDB.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Heidi Johnson
+Email: heidi.johnson372@example.com
+Location: Toronto
+
+Summary
+Experienced professional with expertise in Redux, SIEM, DynamoDB.
+
+Skills
+Redux, SIEM, DynamoDB, CircleCI, FastAPI, Express.js, Vyper
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Redux.
+- Implemented solutions in SIEM.
+
+Education
+BS Computer Science | Tech University | 2014-2018

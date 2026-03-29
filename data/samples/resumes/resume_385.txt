@@ -1,0 +1,17 @@
+Grace Jones
+Email: grace.jones384@example.com
+Location: Toronto
+
+Summary
+Experienced professional with expertise in COBOL, Nmap, Kotlin.
+
+Skills
+COBOL, Nmap, Kotlin, HTML5, Three.js, Zero Trust
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using COBOL.
+- Implemented solutions in Nmap.
+
+Education
+BS Computer Science | Tech University | 2014-2018

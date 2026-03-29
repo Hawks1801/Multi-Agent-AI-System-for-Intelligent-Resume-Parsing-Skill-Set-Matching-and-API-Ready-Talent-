@@ -1,0 +1,17 @@
+David Williams
+Email: david.williams514@example.com
+Location: Chicago
+
+Summary
+Experienced professional with expertise in Three.js, Oracle, Go.
+
+Skills
+Three.js, Oracle, Go, Metasploit, Network Security, C#, MobX, Kubernetes, Kubeflow, Rust, Serverless
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Three.js.
+- Implemented solutions in Oracle.
+
+Education
+BS Computer Science | Tech University | 2014-2018

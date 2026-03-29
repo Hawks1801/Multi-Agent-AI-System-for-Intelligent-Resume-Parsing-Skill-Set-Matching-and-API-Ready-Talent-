@@ -1,0 +1,17 @@
+Frank Miller
+Email: frank.miller204@example.com
+Location: Remote
+
+Summary
+Experienced professional with expertise in Vue.js, MongoDB, MariaDB.
+
+Skills
+Vue.js, MongoDB, MariaDB, Next.js, IDS/IPS, ELK Stack, NumPy, Pinia, Redshift
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Vue.js.
+- Implemented solutions in MongoDB.
+
+Education
+BS Computer Science | Tech University | 2014-2018

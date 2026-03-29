@@ -1,0 +1,17 @@
+Charlie Rodriguez
+Email: charlie.rodriguez344@example.com
+Location: Toronto
+
+Summary
+Experienced professional with expertise in AWS, Ansible, Svelte.
+
+Skills
+AWS, Ansible, Svelte, Phoenix, CSS3, S3, Recoil, Redis, ELK Stack, Python, Cloud Security
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using AWS.
+- Implemented solutions in Ansible.
+
+Education
+BS Computer Science | Tech University | 2014-2018

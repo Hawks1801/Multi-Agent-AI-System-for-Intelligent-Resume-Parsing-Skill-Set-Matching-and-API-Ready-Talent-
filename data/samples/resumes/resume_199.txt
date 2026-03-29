@@ -1,0 +1,17 @@
+Heidi Williams
+Email: heidi.williams198@example.com
+Location: San Francisco
+
+Summary
+Experienced professional with expertise in Matplotlib, Haskell, Erlang.
+
+Skills
+Matplotlib, Haskell, Erlang, Next.js, Prolog, MobX, FastAPI, Kubeflow
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Matplotlib.
+- Implemented solutions in Haskell.
+
+Education
+BS Computer Science | Tech University | 2014-2018

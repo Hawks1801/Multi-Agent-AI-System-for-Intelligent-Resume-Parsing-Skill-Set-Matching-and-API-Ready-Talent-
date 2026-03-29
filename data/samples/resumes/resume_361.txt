@@ -1,0 +1,17 @@
+Heidi Miller
+Email: heidi.miller360@example.com
+Location: London
+
+Summary
+Experienced professional with expertise in Hugging Face, Objective-C, GCP.
+
+Skills
+Hugging Face, Objective-C, GCP, Spring Boot, SQLite, Computer Vision
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Hugging Face.
+- Implemented solutions in Objective-C.
+
+Education
+BS Computer Science | Tech University | 2014-2018

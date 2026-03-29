@@ -1,0 +1,17 @@
+Judy Williams
+Email: judy.williams244@example.com
+Location: Austin
+
+Summary
+Experienced professional with expertise in GitLab CI, Docker, Nmap.
+
+Skills
+GitLab CI, Docker, Nmap, Grafana, Jenkins, C#, Fortran, MLflow
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using GitLab CI.
+- Implemented solutions in Docker.
+
+Education
+BS Computer Science | Tech University | 2014-2018

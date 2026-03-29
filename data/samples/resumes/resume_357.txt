@@ -1,0 +1,17 @@
+Frank Smith
+Email: frank.smith356@example.com
+Location: Seattle
+
+Summary
+Experienced professional with expertise in Hugging Face, Dart, SQLite.
+
+Skills
+Hugging Face, Dart, SQLite, Jenkins, Prolog, Ruby on Rails, Vyper
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Hugging Face.
+- Implemented solutions in Dart.
+
+Education
+BS Computer Science | Tech University | 2014-2018

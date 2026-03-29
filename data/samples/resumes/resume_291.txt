@@ -1,0 +1,17 @@
+Judy Rodriguez
+Email: judy.rodriguez290@example.com
+Location: Chicago
+
+Summary
+Experienced professional with expertise in GitLab CI, GCP, ELK Stack.
+
+Skills
+GitLab CI, GCP, ELK Stack, Pinia, Flask
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using GitLab CI.
+- Implemented solutions in GCP.
+
+Education
+BS Computer Science | Tech University | 2014-2018

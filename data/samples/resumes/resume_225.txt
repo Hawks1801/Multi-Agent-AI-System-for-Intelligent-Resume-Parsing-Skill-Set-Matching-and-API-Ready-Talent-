@@ -1,0 +1,17 @@
+Grace Johnson
+Email: grace.johnson224@example.com
+Location: Remote
+
+Summary
+Experienced professional with expertise in Julia, WebAssembly, Nmap.
+
+Skills
+Julia, WebAssembly, Nmap, Oracle, Redis, MongoDB, Dart, Pulumi, TensorFlow, MariaDB
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Julia.
+- Implemented solutions in WebAssembly.
+
+Education
+BS Computer Science | Tech University | 2014-2018

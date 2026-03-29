@@ -1,0 +1,17 @@
+Grace Martinez
+Email: grace.martinez454@example.com
+Location: London
+
+Summary
+Experienced professional with expertise in Cloud Run, Laravel, NestJS.
+
+Skills
+Cloud Run, Laravel, NestJS, Fiber, Next.js, NLP, Redis, RDS
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Cloud Run.
+- Implemented solutions in Laravel.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Charlie Williams
+Email: charlie.williams56@example.com
+Location: Chicago
+
+Summary
+Experienced professional with expertise in Bootstrap, Koa, MLOps.
+
+Skills
+Bootstrap, Koa, MLOps, NLTK, MongoDB, Redshift, MySQL, WebAssembly, JavaScript, Lambda, BigQuery
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Bootstrap.
+- Implemented solutions in Koa.
+
+Education
+BS Computer Science | Tech University | 2014-2018

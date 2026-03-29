@@ -1,0 +1,17 @@
+Grace Smith
+Email: grace.smith40@example.com
+Location: New York
+
+Summary
+Experienced professional with expertise in Pulumi, Django, Vyper.
+
+Skills
+Pulumi, Django, Vyper, RDS, MySQL, GCP, Prometheus
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Pulumi.
+- Implemented solutions in Django.
+
+Education
+BS Computer Science | Tech University | 2014-2018

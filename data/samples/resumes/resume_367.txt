@@ -1,0 +1,17 @@
+Ivan Williams
+Email: ivan.williams366@example.com
+Location: Sydney
+
+Summary
+Experienced professional with expertise in Recoil, Gensim, LangChain.
+
+Skills
+Recoil, Gensim, LangChain, Lambda, Express.js, Next.js, MATLAB, Java
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Recoil.
+- Implemented solutions in Gensim.
+
+Education
+BS Computer Science | Tech University | 2014-2018

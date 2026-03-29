@@ -1,0 +1,17 @@
+Ivan Garcia
+Email: ivan.garcia52@example.com
+Location: San Francisco
+
+Summary
+Experienced professional with expertise in Machine Learning, Next.js, C++.
+
+Skills
+Machine Learning, Next.js, C++, Ruby on Rails, Three.js, Fortran, Shell Scripting, Koa, Express.js
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Machine Learning.
+- Implemented solutions in Next.js.
+
+Education
+BS Computer Science | Tech University | 2014-2018

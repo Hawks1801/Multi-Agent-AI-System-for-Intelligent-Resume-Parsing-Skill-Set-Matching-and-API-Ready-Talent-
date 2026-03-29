@@ -1,0 +1,17 @@
+Grace Brown
+Email: grace.brown174@example.com
+Location: London
+
+Summary
+Experienced professional with expertise in LLMs, Objective-C, F#.
+
+Skills
+LLMs, Objective-C, F#, Node.js, MariaDB, GitHub Actions, NLP, Pandas, EC2
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using LLMs.
+- Implemented solutions in Objective-C.
+
+Education
+BS Computer Science | Tech University | 2014-2018

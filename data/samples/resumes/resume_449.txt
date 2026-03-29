@@ -1,0 +1,17 @@
+Charlie Garcia
+Email: charlie.garcia448@example.com
+Location: London
+
+Summary
+Experienced professional with expertise in PostgreSQL, ASP.NET Core, MLflow.
+
+Skills
+PostgreSQL, ASP.NET Core, MLflow, JavaScript, RDS
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using PostgreSQL.
+- Implemented solutions in ASP.NET Core.
+
+Education
+BS Computer Science | Tech University | 2014-2018

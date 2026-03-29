@@ -1,0 +1,17 @@
+Ivan Davis
+Email: ivan.davis146@example.com
+Location: Sydney
+
+Summary
+Experienced professional with expertise in Zero Trust, ArangoDB, Express.js.
+
+Skills
+Zero Trust, ArangoDB, Express.js, Seaborn, Echo, Shell Scripting, Kubernetes, Django, Linkerd
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Zero Trust.
+- Implemented solutions in ArangoDB.
+
+Education
+BS Computer Science | Tech University | 2014-2018

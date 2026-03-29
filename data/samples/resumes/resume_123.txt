@@ -1,0 +1,17 @@
+Alice Rodriguez
+Email: alice.rodriguez122@example.com
+Location: Sydney
+
+Summary
+Experienced professional with expertise in Bootstrap, Cloud Run, Scikit-learn.
+
+Skills
+Bootstrap, Cloud Run, Scikit-learn, Grafana, Ruby on Rails, RDS, Rust, Svelte, NestJS, Pulumi, MariaDB
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Bootstrap.
+- Implemented solutions in Cloud Run.
+
+Education
+BS Computer Science | Tech University | 2014-2018

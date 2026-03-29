@@ -1,0 +1,17 @@
+Ivan Miller
+Email: ivan.miller228@example.com
+Location: Sydney
+
+Summary
+Experienced professional with expertise in BigQuery, Azure, SQL Server.
+
+Skills
+BigQuery, Azure, SQL Server, Gensim, Svelte, MATLAB, Hapi
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using BigQuery.
+- Implemented solutions in Azure.
+
+Education
+BS Computer Science | Tech University | 2014-2018

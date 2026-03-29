@@ -1,0 +1,17 @@
+Heidi Johnson
+Email: heidi.johnson446@example.com
+Location: Austin
+
+Summary
+Experienced professional with expertise in Redux, MLflow, Application Security.
+
+Skills
+Redux, MLflow, Application Security, Hugging Face, Fortran, Computer Vision, Next.js, React, Vue.js, Shell Scripting
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Redux.
+- Implemented solutions in MLflow.
+
+Education
+BS Computer Science | Tech University | 2014-2018

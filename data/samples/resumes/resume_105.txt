@@ -1,0 +1,17 @@
+Grace Martinez
+Email: grace.martinez104@example.com
+Location: Seattle
+
+Summary
+Experienced professional with expertise in Fargate, Pinia, Redux.
+
+Skills
+Fargate, Pinia, Redux, Koa, ELK Stack
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Fargate.
+- Implemented solutions in Pinia.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Eve Davis
+Email: eve.davis124@example.com
+Location: Chicago
+
+Summary
+Experienced professional with expertise in NestJS, Erlang, Phoenix.
+
+Skills
+NestJS, Erlang, Phoenix, WebAssembly, Vuex, IDS/IPS, Swift
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using NestJS.
+- Implemented solutions in Erlang.
+
+Education
+BS Computer Science | Tech University | 2014-2018

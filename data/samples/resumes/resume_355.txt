@@ -1,0 +1,17 @@
+Heidi Jones
+Email: heidi.jones354@example.com
+Location: Sydney
+
+Summary
+Experienced professional with expertise in Cloud Security, SASS, DynamoDB.
+
+Skills
+Cloud Security, SASS, DynamoDB, Assembly, FastAPI, AWS, F#, Snowflake, Three.js, Hugging Face, NestJS
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Cloud Security.
+- Implemented solutions in SASS.
+
+Education
+BS Computer Science | Tech University | 2014-2018

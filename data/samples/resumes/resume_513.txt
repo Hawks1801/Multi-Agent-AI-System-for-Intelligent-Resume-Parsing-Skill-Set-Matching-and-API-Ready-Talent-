@@ -1,0 +1,17 @@
+David Garcia
+Email: david.garcia512@example.com
+Location: Seattle
+
+Summary
+Experienced professional with expertise in ArangoDB, Rust, Cloud Run.
+
+Skills
+ArangoDB, Rust, Cloud Run, SIEM, EC2, Metasploit, Kubeflow, MATLAB, Vuex, CircleCI
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using ArangoDB.
+- Implemented solutions in Rust.
+
+Education
+BS Computer Science | Tech University | 2014-2018

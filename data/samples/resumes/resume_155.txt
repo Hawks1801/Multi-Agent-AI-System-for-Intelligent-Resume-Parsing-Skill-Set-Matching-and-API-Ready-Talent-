@@ -1,0 +1,17 @@
+Frank Johnson
+Email: frank.johnson154@example.com
+Location: New York
+
+Summary
+Experienced professional with expertise in Fargate, Metasploit, GitLab CI.
+
+Skills
+Fargate, Metasploit, GitLab CI, LLMs, PostgreSQL, TensorFlow, MySQL, Oracle, Penetration Testing
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Fargate.
+- Implemented solutions in Metasploit.
+
+Education
+BS Computer Science | Tech University | 2014-2018

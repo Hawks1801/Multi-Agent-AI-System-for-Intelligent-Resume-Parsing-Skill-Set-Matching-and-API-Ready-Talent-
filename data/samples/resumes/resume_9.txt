@@ -1,0 +1,17 @@
+Frank Rodriguez
+Email: frank.rodriguez8@example.com
+Location: San Francisco
+
+Summary
+Experienced professional with expertise in HTML5, Gensim, ArangoDB.
+
+Skills
+HTML5, Gensim, ArangoDB, Backbone.js, Vyper, Fortran, Matplotlib, Vuex, Jenkins, F#, Solidity
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using HTML5.
+- Implemented solutions in Gensim.
+
+Education
+BS Computer Science | Tech University | 2014-2018

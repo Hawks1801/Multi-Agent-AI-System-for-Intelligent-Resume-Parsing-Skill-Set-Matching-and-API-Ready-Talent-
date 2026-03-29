@@ -1,0 +1,17 @@
+Charlie Johnson
+Email: charlie.johnson378@example.com
+Location: New York
+
+Summary
+Experienced professional with expertise in Cryptography, Assembly, MongoDB.
+
+Skills
+Cryptography, Assembly, MongoDB, Wireshark, Haskell, Echo, Keras, Ruby
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Cryptography.
+- Implemented solutions in Assembly.
+
+Education
+BS Computer Science | Tech University | 2014-2018

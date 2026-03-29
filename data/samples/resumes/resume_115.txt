@@ -1,0 +1,17 @@
+David Williams
+Email: david.williams114@example.com
+Location: Austin
+
+Summary
+Experienced professional with expertise in SASS, Gin, Computer Vision.
+
+Skills
+SASS, Gin, Computer Vision, Laravel, Terraform, TypeScript
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using SASS.
+- Implemented solutions in Gin.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Charlie Jones
+Email: charlie.jones424@example.com
+Location: San Francisco
+
+Summary
+Experienced professional with expertise in Fargate, BigQuery, WebAssembly.
+
+Skills
+Fargate, BigQuery, WebAssembly, Kotlin, Flask, GCP, Perl
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Fargate.
+- Implemented solutions in BigQuery.
+
+Education
+BS Computer Science | Tech University | 2014-2018

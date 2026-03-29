@@ -1,0 +1,17 @@
+Heidi Brown
+Email: heidi.brown148@example.com
+Location: Sydney
+
+Summary
+Experienced professional with expertise in FastAPI, NLTK, Wireshark.
+
+Skills
+FastAPI, NLTK, Wireshark, SIEM, TypeScript, Backbone.js, Ruby on Rails, Django
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using FastAPI.
+- Implemented solutions in NLTK.
+
+Education
+BS Computer Science | Tech University | 2014-2018

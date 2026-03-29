@@ -1,0 +1,17 @@
+Judy Brown
+Email: judy.brown358@example.com
+Location: Berlin
+
+Summary
+Experienced professional with expertise in PyTorch, Laravel, DynamoDB.
+
+Skills
+PyTorch, Laravel, DynamoDB, Redis, Lambda, TypeScript, Vyper
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using PyTorch.
+- Implemented solutions in Laravel.
+
+Education
+BS Computer Science | Tech University | 2014-2018

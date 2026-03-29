@@ -1,0 +1,17 @@
+Judy Smith
+Email: judy.smith274@example.com
+Location: San Francisco
+
+Summary
+Experienced professional with expertise in CircleCI, Spring Boot, AWS.
+
+Skills
+CircleCI, Spring Boot, AWS, Shell Scripting, Penetration Testing, Azure, Zero Trust, Pulumi, LESS, Ember.js
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using CircleCI.
+- Implemented solutions in Spring Boot.
+
+Education
+BS Computer Science | Tech University | 2014-2018

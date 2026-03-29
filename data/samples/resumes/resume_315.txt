@@ -1,0 +1,17 @@
+David Davis
+Email: david.davis314@example.com
+Location: New York
+
+Summary
+Experienced professional with expertise in Spring Boot, Phoenix, Swift.
+
+Skills
+Spring Boot, Phoenix, Swift, Penetration Testing, Svelte, ASP.NET Core, Rust
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Spring Boot.
+- Implemented solutions in Phoenix.
+
+Education
+BS Computer Science | Tech University | 2014-2018

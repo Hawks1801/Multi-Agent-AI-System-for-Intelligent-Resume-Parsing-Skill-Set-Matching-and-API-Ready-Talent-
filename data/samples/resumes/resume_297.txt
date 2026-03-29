@@ -1,0 +1,17 @@
+Grace Jones
+Email: grace.jones296@example.com
+Location: Chicago
+
+Summary
+Experienced professional with expertise in C++, IDS/IPS, Gin.
+
+Skills
+C++, IDS/IPS, Gin, MLOps, BigQuery, Seaborn, MariaDB, Ruby, SIEM, C#, MySQL, CSS3
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using C++.
+- Implemented solutions in IDS/IPS.
+
+Education
+BS Computer Science | Tech University | 2014-2018

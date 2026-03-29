@@ -1,0 +1,17 @@
+Judy Williams
+Email: judy.williams112@example.com
+Location: New York
+
+Summary
+Experienced professional with expertise in Kubeflow, CircleCI, Go.
+
+Skills
+Kubeflow, CircleCI, Go, WebAssembly, Node.js, Grafana, Snowflake, LangChain, Shell Scripting
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Kubeflow.
+- Implemented solutions in CircleCI.
+
+Education
+BS Computer Science | Tech University | 2014-2018

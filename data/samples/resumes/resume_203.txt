@@ -1,0 +1,17 @@
+Frank Smith
+Email: frank.smith202@example.com
+Location: London
+
+Summary
+Experienced professional with expertise in Three.js, TensorFlow, Application Security.
+
+Skills
+Three.js, TensorFlow, Application Security, Matplotlib, Fiber, Angular, C++, Cloud Run
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Three.js.
+- Implemented solutions in TensorFlow.
+
+Education
+BS Computer Science | Tech University | 2014-2018

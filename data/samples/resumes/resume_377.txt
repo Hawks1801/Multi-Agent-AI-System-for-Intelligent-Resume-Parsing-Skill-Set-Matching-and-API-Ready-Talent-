@@ -1,0 +1,17 @@
+Grace Williams
+Email: grace.williams376@example.com
+Location: Austin
+
+Summary
+Experienced professional with expertise in Laravel, Pandas, Jenkins.
+
+Skills
+Laravel, Pandas, Jenkins, Identity Management, Vuex, MATLAB, Python, DynamoDB, Ruby
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Laravel.
+- Implemented solutions in Pandas.
+
+Education
+BS Computer Science | Tech University | 2014-2018

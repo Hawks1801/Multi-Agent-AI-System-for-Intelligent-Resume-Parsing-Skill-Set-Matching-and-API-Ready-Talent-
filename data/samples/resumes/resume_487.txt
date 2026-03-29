@@ -1,0 +1,17 @@
+Alice Brown
+Email: alice.brown486@example.com
+Location: Austin
+
+Summary
+Experienced professional with expertise in Istio, Redshift, MATLAB.
+
+Skills
+Istio, Redshift, MATLAB, Perl, C#, Matplotlib, Scikit-learn, LESS, Docker
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Istio.
+- Implemented solutions in Redshift.
+
+Education
+BS Computer Science | Tech University | 2014-2018

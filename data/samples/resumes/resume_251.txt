@@ -1,0 +1,17 @@
+Bob Jones
+Email: bob.jones250@example.com
+Location: London
+
+Summary
+Experienced professional with expertise in LLMs, Azure, MariaDB.
+
+Skills
+LLMs, Azure, MariaDB, Ansible, NLTK, CSS3
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using LLMs.
+- Implemented solutions in Azure.
+
+Education
+BS Computer Science | Tech University | 2014-2018

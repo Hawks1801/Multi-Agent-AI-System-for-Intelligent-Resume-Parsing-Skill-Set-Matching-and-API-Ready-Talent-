@@ -1,0 +1,17 @@
+Charlie Rodriguez
+Email: charlie.rodriguez262@example.com
+Location: Austin
+
+Summary
+Experienced professional with expertise in Snowflake, Oracle, Lambda.
+
+Skills
+Snowflake, Oracle, Lambda, GitLab CI, Serverless, Swift
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Snowflake.
+- Implemented solutions in Oracle.
+
+Education
+BS Computer Science | Tech University | 2014-2018

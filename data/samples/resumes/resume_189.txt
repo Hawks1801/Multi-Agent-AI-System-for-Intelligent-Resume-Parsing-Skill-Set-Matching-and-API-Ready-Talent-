@@ -1,0 +1,17 @@
+David Davis
+Email: david.davis188@example.com
+Location: Chicago
+
+Summary
+Experienced professional with expertise in Docker, Swift, Spring Boot.
+
+Skills
+Docker, Swift, Spring Boot, SIEM, Grafana, Go, Nmap, Deep Learning, OpenCV, LangChain, Objective-C, WebAssembly
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Docker.
+- Implemented solutions in Swift.
+
+Education
+BS Computer Science | Tech University | 2014-2018

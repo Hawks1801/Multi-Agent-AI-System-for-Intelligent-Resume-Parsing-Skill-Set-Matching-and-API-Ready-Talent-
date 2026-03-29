@@ -1,0 +1,17 @@
+Charlie Williams
+Email: charlie.williams472@example.com
+Location: Seattle
+
+Summary
+Experienced professional with expertise in Phoenix, Solidity, Ember.js.
+
+Skills
+Phoenix, Solidity, Ember.js, Vue.js, Seaborn, Svelte
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Phoenix.
+- Implemented solutions in Solidity.
+
+Education
+BS Computer Science | Tech University | 2014-2018

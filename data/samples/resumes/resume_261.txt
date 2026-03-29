@@ -1,0 +1,17 @@
+Charlie Miller
+Email: charlie.miller260@example.com
+Location: London
+
+Summary
+Experienced professional with expertise in R, Angular, ELK Stack.
+
+Skills
+R, Angular, ELK Stack, AWS, Linkerd, Redux, PostgreSQL, Swift, Rust, Application Security, PHP, Assembly
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using R.
+- Implemented solutions in Angular.
+
+Education
+BS Computer Science | Tech University | 2014-2018

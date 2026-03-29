@@ -1,0 +1,17 @@
+Eve Jones
+Email: eve.jones88@example.com
+Location: London
+
+Summary
+Experienced professional with expertise in BigQuery, RDS, Swift.
+
+Skills
+BigQuery, RDS, Swift, Matplotlib, Keras, Svelte, Istio, Scala, Three.js
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using BigQuery.
+- Implemented solutions in RDS.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Judy Brown
+Email: judy.brown220@example.com
+Location: Berlin
+
+Summary
+Experienced professional with expertise in Linkerd, Redis, Express.js.
+
+Skills
+Linkerd, Redis, Express.js, Fiber, Ruby on Rails, ASP.NET Core
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Linkerd.
+- Implemented solutions in Redis.
+
+Education
+BS Computer Science | Tech University | 2014-2018

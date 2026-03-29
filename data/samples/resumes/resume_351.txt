@@ -1,0 +1,17 @@
+Grace Davis
+Email: grace.davis350@example.com
+Location: Austin
+
+Summary
+Experienced professional with expertise in CSS3, EC2, Ethical Hacking.
+
+Skills
+CSS3, EC2, Ethical Hacking, PHP, Ruby, NLP, Vyper
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using CSS3.
+- Implemented solutions in EC2.
+
+Education
+BS Computer Science | Tech University | 2014-2018

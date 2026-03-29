@@ -1,0 +1,17 @@
+Frank Rodriguez
+Email: frank.rodriguez460@example.com
+Location: London
+
+Summary
+Experienced professional with expertise in Lisp, Shell Scripting, TypeScript.
+
+Skills
+Lisp, Shell Scripting, TypeScript, MLOps, Cassandra
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Lisp.
+- Implemented solutions in Shell Scripting.
+
+Education
+BS Computer Science | Tech University | 2014-2018

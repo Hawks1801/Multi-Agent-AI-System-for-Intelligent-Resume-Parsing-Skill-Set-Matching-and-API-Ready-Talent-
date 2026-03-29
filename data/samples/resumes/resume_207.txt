@@ -1,0 +1,17 @@
+David Miller
+Email: david.miller206@example.com
+Location: Austin
+
+Summary
+Experienced professional with expertise in R, Redux, Application Security.
+
+Skills
+R, Redux, Application Security, Java, Kubeflow, NLTK, MySQL, Terraform, Istio, Erlang
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using R.
+- Implemented solutions in Redux.
+
+Education
+BS Computer Science | Tech University | 2014-2018

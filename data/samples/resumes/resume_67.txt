@@ -1,0 +1,17 @@
+Grace Miller
+Email: grace.miller66@example.com
+Location: Remote
+
+Summary
+Experienced professional with expertise in Bootstrap, Jenkins, Go.
+
+Skills
+Bootstrap, Jenkins, Go, Phoenix, MLflow, Seaborn
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Bootstrap.
+- Implemented solutions in Jenkins.
+
+Education
+BS Computer Science | Tech University | 2014-2018

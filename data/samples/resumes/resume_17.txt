@@ -1,0 +1,17 @@
+Charlie Davis
+Email: charlie.davis16@example.com
+Location: Chicago
+
+Summary
+Experienced professional with expertise in MLOps, Snowflake, Erlang.
+
+Skills
+MLOps, Snowflake, Erlang, Objective-C, Identity Management
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using MLOps.
+- Implemented solutions in Snowflake.
+
+Education
+BS Computer Science | Tech University | 2014-2018

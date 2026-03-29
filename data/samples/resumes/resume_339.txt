@@ -1,0 +1,17 @@
+Heidi Rodriguez
+Email: heidi.rodriguez338@example.com
+Location: New York
+
+Summary
+Experienced professional with expertise in MATLAB, Nuxt.js, Assembly.
+
+Skills
+MATLAB, Nuxt.js, Assembly, Shell Scripting, SIEM, Ruby on Rails, HTML5, Neo4j, ClickHouse
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using MATLAB.
+- Implemented solutions in Nuxt.js.
+
+Education
+BS Computer Science | Tech University | 2014-2018

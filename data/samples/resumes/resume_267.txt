@@ -1,0 +1,17 @@
+Grace Martinez
+Email: grace.martinez266@example.com
+Location: Chicago
+
+Summary
+Experienced professional with expertise in Next.js, Fastify, ArangoDB.
+
+Skills
+Next.js, Fastify, ArangoDB, Computer Vision, Phoenix, MongoDB, LangChain, Hugging Face, NLP, DynamoDB
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Next.js.
+- Implemented solutions in Fastify.
+
+Education
+BS Computer Science | Tech University | 2014-2018

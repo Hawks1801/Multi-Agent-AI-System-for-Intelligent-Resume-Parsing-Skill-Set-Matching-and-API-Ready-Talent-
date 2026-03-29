@@ -1,0 +1,17 @@
+Frank Jones
+Email: frank.jones28@example.com
+Location: Seattle
+
+Summary
+Experienced professional with expertise in Matplotlib, SIEM, ELK Stack.
+
+Skills
+Matplotlib, SIEM, ELK Stack, NestJS, Phoenix
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Matplotlib.
+- Implemented solutions in SIEM.
+
+Education
+BS Computer Science | Tech University | 2014-2018

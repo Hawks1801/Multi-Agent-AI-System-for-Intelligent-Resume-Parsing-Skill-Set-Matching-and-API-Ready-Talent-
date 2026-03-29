@@ -1,0 +1,17 @@
+Bob Johnson
+Email: bob.johnson194@example.com
+Location: Austin
+
+Summary
+Experienced professional with expertise in Perl, FastAPI, SQLite.
+
+Skills
+Perl, FastAPI, SQLite, Cloud Security, COBOL, Linkerd, GCP, Ruby, Zustand, Objective-C, SQL Server
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Perl.
+- Implemented solutions in FastAPI.
+
+Education
+BS Computer Science | Tech University | 2014-2018

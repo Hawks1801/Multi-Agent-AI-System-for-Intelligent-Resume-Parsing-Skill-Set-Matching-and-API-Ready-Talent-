@@ -1,0 +1,17 @@
+Charlie Garcia
+Email: charlie.garcia190@example.com
+Location: Berlin
+
+Summary
+Experienced professional with expertise in Snowflake, Redis, Echo.
+
+Skills
+Snowflake, Redis, Echo, BigQuery, Python
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Snowflake.
+- Implemented solutions in Redis.
+
+Education
+BS Computer Science | Tech University | 2014-2018

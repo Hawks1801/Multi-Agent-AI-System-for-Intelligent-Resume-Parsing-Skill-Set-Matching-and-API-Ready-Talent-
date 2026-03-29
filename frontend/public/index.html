@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MultiagentAI</title>
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap');
+        
+        :root {
+            --bg-deep: #0a0c10;
+            --bg-panel: #12151c;
+            --accent-teal: #2dd4bf;
+            --accent-orange: #fb923c;
+            --border-dim: #1e293b;
+            --text-main: #94a3b8;
+        }
+
+        body { 
+            font-family: 'Space Grotesk', sans-serif; 
+            background-color: var(--bg-deep);
+            color: var(--text-main);
+            overflow-x: hidden;
+        }
+
+        .mono { font-family: 'JetBrains Mono', monospace; }
+
+        .gradient-text {
+            background: linear-gradient(90deg, var(--accent-teal) 0%, #60a5fa 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .command-border {
+            border: 1px solid var(--border-dim);
+            position: relative;
+        }
+
+        .command-border::before {
+            content: '';
+            position: absolute;
+            top: -1px; left: -1px; width: 10px; height: 10px;
+            border-top: 2px solid var(--accent-teal);
+            border-left: 2px solid var(--accent-teal);
+        }
+
+        .command-border::after {
+            content: '';
+            position: absolute;
+            bottom: -1px; right: -1px; width: 10px; height: 10px;
+            border-bottom: 2px solid var(--accent-teal);
+            border-right: 2px solid var(--accent-teal);
+        }
+
+        .glass-header {
+            background: rgba(10, 12, 16, 0.8);
+            backdrop-filter: blur(12px);
+            border-bottom: 1px solid var(--border-dim);
+        }
+
+        .hero-grid {
+            background-image: radial-gradient(var(--border-dim) 1px, transparent 1px);
+            background-size: 40px 40px;
+        }
+
+        .dashboard-card {
+            background: var(--bg-panel);
+            border: 1px solid var(--border-dim);
+            border-radius: 0.5rem;
+            transition: all 0.3s;
+        }
+
+        .dashboard-card:hover {
+            border-color: var(--accent-teal);
+            box-shadow: 0 0 20px rgba(45, 212, 191, 0.1);
+        }
+
+        .sidebar-item {
+            border-left: 3px solid transparent;
+            transition: all 0.2s;
+        }
+
+        .sidebar-item.active {
+            background: rgba(45, 212, 191, 0.05);
+            border-left-color: var(--accent-teal);
+            color: white;
+        }
+
+        .scan-line {
+            width: 100%;
+            height: 2px;
+            background: var(--accent-teal);
+            opacity: 0.3;
+            position: absolute;
+            top: 0;
+            left: 0;
+            animation: scan 3s linear infinite;
+            z-index: 10;
+            pointer-events: none;
+        }
+
+        @keyframes scan {
+            0% { top: 0; }
+            100% { top: 100%; }
+        }
+
+        .btn-command {
+            background: var(--accent-teal);
+            color: var(--bg-deep);
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            padding: 0.75rem 2rem;
+            clip-path: polygon(10% 0, 100% 0, 100% 70%, 90% 100%, 0 100%, 0% 30%);
+            transition: all 0.2s;
+        }
+
+        .btn-command:hover {
+            transform: scale(1.05);
+            filter: brightness(1.1);
+        }
+
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: var(--bg-deep); }
+        ::-webkit-scrollbar-thumb { background: var(--border-dim); border-radius: 10px; }
+        ::-webkit-scrollbar-thumb:hover { background: var(--accent-teal); }
+    </style>
+</head>
+<body>
+    <div id="root"></div>
+
+    <script type="text/babel">
+        const { useState, useEffect } = React;
+
+        const API_BASE_URL = `http://${window.location.hostname}:8000/api/v1`;
+
+        // --- UI COMPONENTS ---
+
+        const Navbar = ({ view, setView, setNavTarget }) => {
+            const handleNav = (id) => {
+                if (view !== 'landing') {
+                    setNavTarget(id);
+                    setView('landing');
+                } else {
+                    const el = document.getElementById(id);
+                    if (el) el.scrollIntoView({ behavior: 'smooth' });
+                }
+            };
+
+            return (
+                <header className="fixed top-0 w-full glass-header z-50">
+                    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                        <div className="flex items-center justify-between h-20">
+                            {/* Logo */}
+                            <div className="flex items-center gap-2 cursor-pointer" onClick={() => setView('landing')}>
+                                <div className="w-10 h-10 bg-rose-500 rounded-xl flex items-center justify-center">
+                                    <i className="fas fa-exclamation-triangle text-white text-xl"></i>
+                                </div>
+                                <span className="font-extrabold text-2xl tracking-tight text-rose-600">Error 404</span>
+                            </div>
+
+                            {/* Nav */}
+                            <nav className="hidden md:flex items-center gap-10">
+                                {[
+                                    { name: 'Features', id: 'features' },
+                                    { name: 'How It Works', id: 'how-it-works' },
+                                    { name: 'Capabilities', id: 'capabilities' }
+                                ].map(item => (
+                                    <button 
+                                        key={item.name} 
+                                        onClick={() => handleNav(item.id)}
+                                        className="text-sm font-semibold text-slate-600 hover:text-indigo-600 transition-colors"
+                                    >
+                                        {item.name}
+                                    </button>
+                                ))}
+                            </nav>
+
+                            {/* CTA */}
+                            <div className="flex items-center gap-4">
+                                <button 
+                                    onClick={() => setView('app')}
+                                    className="bg-slate-900 text-white px-6 py-2.5 rounded-full font-bold text-sm hover:bg-slate-800 transition-all"
+                                >
+                                    {view === 'app' ? 'Open Dashboard' : 'Open Dashboard'}
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+            );
+        };
+
+        const Hero = ({ setView }) => (
+            <section className="relative pt-48 pb-32 overflow-hidden hero-grid">
+                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+                    <div className="flex flex-col items-center text-center max-w-4xl mx-auto">
+                        <div className="command-border bg-slate-900/50 px-6 py-2 mb-10">
+                            <span className="mono text-xs font-bold text-teal-400 tracking-[0.3em] uppercase">SYSTEM CORE v1.0.4 // AGENTIC_ACTIVE</span>
+                        </div>
+                        <h1 className="text-7xl md:text-8xl font-black text-white mb-10 tracking-tight leading-none">
+                            <span className="gradient-text">MULTIAGENT</span><br/>INTELLIGENCE
+                        </h1>
+                        <p className="text-xl text-slate-400 mb-16 leading-relaxed max-w-2xl font-medium">
+                            Industrial-grade AI pipeline for global talent acquisition. High-speed parsing, hierarchical normalization, and vector matching.
+                        </p>
+                        <div className="flex flex-wrap items-center justify-center gap-8">
+                            <button onClick={() => setView('app')} className="btn-command">
+                                Initialize Dashboard
+                            </button>
+                            <a 
+                                href={`http://${window.location.hostname}:8000/docs`} 
+                                target="_blank" 
+                                className="mono text-sm font-bold text-teal-400 hover:text-white transition-colors flex items-center gap-3"
+                            >
+                                <span className="w-2 h-2 bg-teal-400 rounded-full animate-pulse"></span> VIEW_DOCUMENTATION.SYS
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        );
+
+        const Features = () => (
+            <section id="features" className="py-32 relative">
+                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                    <div className="flex items-end justify-between mb-20 border-b border-slate-800 pb-10">
+                        <div>
+                            <h2 className="text-4xl font-black text-white mb-4 uppercase tracking-tighter">Mission Capabilities</h2>
+                            <p className="mono text-sm text-teal-500 font-bold">CORE_FUNCTIONALITY_READOUT</p>
+                        </div>
+                        <div className="hidden md:block mono text-[10px] text-slate-600 text-right">
+                            AGENT_ORCHESTRATION: LANGGRAPH<br/>
+                            LLM_INFRA: GROQ_LLAMA_3.3
+                        </div>
+                    </div>
+                    <div className="grid grid-cols-1 md:grid-cols-3 gap-1">
+                        {[
+                            { title: 'Neural Parsing', code: 'PRSE_01', desc: 'Agentic extraction from PDF/DOCX with structural layout preservation.' },
+                            { title: 'Taxonomy Engine', code: 'NORM_02', desc: '5,000+ entry hierarchical skill database with vector normalization.' },
+                            { title: 'Vector Matcher', code: 'MTCH_03', desc: 'Semantic similarity scoring with 95% correlation to expert rankings.' },
+                        ].map((f, i) => (
+                            <div key={i} className="command-border p-12 bg-panel hover:bg-slate-900/50 transition-all group">
+                                <div className="mono text-[10px] text-teal-500 mb-8 font-bold tracking-widest">{f.code}</div>
+                                <h3 className="text-2xl font-bold text-white mb-6 uppercase tracking-tight group-hover:text-teal-400 transition-colors">{f.title}</h3>
+                                <p className="text-slate-500 leading-relaxed font-medium">{f.desc}</p>
+                            </div>
+                        ))}
+                    </div>
+                </div>
+            </section>
+        );
+
+        const HowItWorks = () => (
+            <section id="how-it-works" className="py-32 bg-panel relative overflow-hidden">
+                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+                    <div className="flex items-end justify-between mb-20">
+                        <div>
+                            <h2 className="text-4xl font-black text-white mb-4 uppercase tracking-tighter italic">Operational Workflow</h2>
+                            <p className="mono text-sm text-teal-500 font-bold">PIPELINE_STAGES_VISUALIZATION</p>
+                        </div>
+                    </div>
+                    <div className="grid grid-cols-1 lg:grid-cols-3 gap-1">
+                        {[
+                            { step: '01', title: 'Data Ingestion', desc: 'Neural extraction of raw resume telemetry from multi-format source files.' },
+                            { step: '02', title: 'Vector Alignment', desc: 'Hierarchical normalization against global taxonomy for unified data structure.' },
+                            { step: '03', title: 'Match Execution', desc: 'Multi-dimensional semantic cross-referencing with JD requirement vectors.' },
+                        ].map((s, i) => (
+                            <div key={i} className="bg-slate-900/50 p-12 border border-slate-800">
+                                <div className="mono text-4xl font-black text-slate-800 mb-8 tracking-tighter group-hover:text-teal-500 transition-colors">
+                                    {s.step}
+                                </div>
+                                <h3 className="text-xl font-bold text-white mb-4 uppercase tracking-tight">{s.title}</h3>
+                                <p className="text-slate-500 text-sm leading-relaxed font-medium">{s.desc}</p>
+                            </div>
+                        ))}
+                    </div>
+                </div>
+            </section>
+        );
+
+        const Capabilities = () => (
+            <section id="capabilities" className="py-32 bg-deep border-y border-slate-800">
+                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                    <div className="grid grid-cols-1 lg:grid-cols-2 gap-24 items-center">
+                        <div className="space-y-10">
+                            <h2 className="text-5xl font-black text-white leading-tight uppercase tracking-tighter">
+                                Industrial Scale<br/>
+                                <span className="gradient-text italic">Agentic Power</span>
+                            </h2>
+                            <div className="grid grid-cols-1 gap-6">
+                                {[
+                                    { t: 'Multi-Agent Orchestration', d: 'LangGraph-powered state machines for error-tolerant execution.' },
+                                    { t: 'High-Density Taxonomy', d: '5,625+ Skills indexed with sub-second vector retrieval.' },
+                                    { t: 'Semantic Core', d: 'Sentence-transformer embeddings for deep context matching.' },
+                                    { t: 'API-First Architecture', d: 'Production-grade OpenAPI integration for enterprise scale.' }
+                                ].map((c, i) => (
+                                    <div key={i} className="flex gap-6 items-start">
+                                        <div className="w-1.5 h-1.5 bg-teal-500 rounded-full mt-2 shadow-[0_0_8px_#2dd4bf]"></div>
+                                        <div>
+                                            <h4 className="mono text-sm font-bold text-white uppercase tracking-wider mb-1">{c.t}</h4>
+                                            <p className="text-slate-500 text-xs font-medium leading-relaxed">{c.d}</p>
+                                        </div>
+                                    </div>
+                                ))}
+                            </div>
+                        </div>
+                        <div className="command-border bg-slate-950 p-12 relative group overflow-hidden">
+                            <div className="scan-line opacity-20"></div>
+                            <div className="mono text-[10px] text-teal-500 font-bold mb-8 uppercase tracking-widest border-b border-slate-900 pb-4">Real_Time_JSON_Readout</div>
+                            <pre className="mono text-[11px] text-teal-400/70 leading-relaxed overflow-x-auto">
+                                {`{
+  "status": "MATCH_COMPLETED",
+  "agent_id": "MTCH_AGENT_04",
+  "result_set": {
+    "alignment_score": 0.9428,
+    "confidence": "HIGH",
+    "latency": "0.54s",
+    "signals": ["Python", "K8s", "Llama3"]
+  },
+  "interview_prep": "READY"
+}`}
+                            </pre>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        );
+
+        // --- DASHBOARD COMPONENTS ---
+
+        const DashboardLayout = ({ children, setView }) => {
+            const [activeTab, setActiveTab] = useState('parser');
+            
+            return (
+                <div className="flex min-h-screen bg-deep pt-20">
+                    {/* Sidebar */}
+                    <aside className="w-72 bg-panel border-r border-slate-800 p-8 flex flex-col fixed left-0 top-20 bottom-0">
+                        <div className="mb-10 px-5">
+                            <div className="mono text-[10px] text-slate-600 font-bold uppercase tracking-widest mb-2">Authenticated_User</div>
+                            <div className="text-white font-bold flex items-center gap-2">
+                                <span className="w-2 h-2 bg-teal-500 rounded-full"></span> ADMIN_PRV_01
+                            </div>
+                        </div>
+                        <div className="space-y-1 mb-auto">
+                            {[
+                                { id: 'parser', name: 'Neural Parser', icon: 'fa-microchip' },
+                                { id: 'matcher', name: 'Vector Matcher', icon: 'fa-crosshairs' },
+                                { id: 'taxonomy', name: 'Skill Matrix', icon: 'fa-network-wired' },
+                            ].map(item => (
+                                <button 
+                                    key={item.id}
+                                    onClick={() => setActiveTab(item.id)}
+                                    className={`w-full flex items-center gap-4 px-6 py-4 transition-all sidebar-item mono text-xs font-bold uppercase tracking-widest ${activeTab === item.id ? 'active' : 'text-slate-500 hover:text-slate-300'}`}
+                                >
+                                    <i className={`fas ${item.icon} w-5 text-sm`}></i>
+                                    {item.name}
+                                </button>
+                            ))}
+                        </div>
+                        <button onClick={() => setView('landing')} className="flex items-center gap-3 text-slate-600 mono text-[10px] font-bold hover:text-teal-400 transition-colors px-6 uppercase tracking-widest">
+                            <i className="fas fa-power-off"></i> Terminate Session
+                        </button>
+                    </aside>
+
+                    {/* Content */}
+                    <main className="flex-1 ml-72 p-12 bg-deep hero-grid">
+                        <div className="max-w-6xl mx-auto">
+                            {activeTab === 'parser' && <ParserView />}
+                            {activeTab === 'matcher' && <MatcherView />}
+                            {activeTab === 'taxonomy' && <TaxonomyView />}
+                        </div>
+                    </main>
+                </div>
+            );
+        };
+
+        const ParserView = () => {
+            const [file, setFile] = useState(null);
+            const [loading, setLoading] = useState(false);
+            const [result, setResult] = useState(null);
+
+            const handleUpload = async () => {
+                if (!file) return;
+                setLoading(true);
+                const formData = new FormData();
+                formData.append('file', file);
+                try {
+                    const response = await fetch(`${API_BASE_URL}/parse/`, { 
+                        method: 'POST', 
+                        body: formData,
+                        headers: { 'X-API-KEY': 'error404-secret-key' }
+                    });
+                    const data = await response.json();
+                    setResult(data);
+                } catch (error) {
+                    console.error(error);
+                } finally {
+                    setLoading(false);
+                }
+            };
+
+            return (
+                <div className="animate-slide-up">
+                    <div className="flex items-center justify-between mb-12 border-b border-slate-800 pb-8">
+                        <div>
+                            <h2 className="text-3xl font-black text-white uppercase tracking-tighter italic">Neural Data Extraction</h2>
+                            <p className="mono text-xs text-teal-500 font-bold mt-1">STATUS: READY_FOR_INGESTION</p>
+                        </div>
+                        <div className="mono text-[10px] text-slate-600 text-right uppercase">
+                            Buffer: 0% Loaded<br/>
+                            Encryption: AES-256
+                        </div>
+                    </div>
+
+                    <div className="command-border bg-panel p-16 text-center mb-12 group overflow-hidden">
+                        <div className="scan-line"></div>
+                        <input type="file" id="up" className="hidden" onChange={(e) => setFile(e.target.files[0])} />
+                        <label htmlFor="up" className="cursor-pointer block relative z-20">
+                            <div className="w-20 h-20 bg-slate-900 text-teal-400 border border-slate-800 flex items-center justify-center mx-auto mb-8 group-hover:border-teal-500 transition-all">
+                                <i className="fas fa-upload text-2xl"></i>
+                            </div>
+                            <div className="text-2xl font-bold text-white uppercase tracking-tight">{file ? file.name : "Select Source Document"}</div>
+                            <p className="mono text-[10px] text-slate-500 mt-4 font-bold tracking-[0.2em]">WAITING_FOR_INPUT...</p>
+                        </label>
+                        {file && !loading && (
+                            <button onClick={handleUpload} className="mt-10 btn-command">
+                                Execute Extraction
+                            </button>
+                        )}
+                        {loading && (
+                            <div className="mt-10 mono text-xs text-teal-400 font-bold animate-pulse tracking-widest uppercase">
+                                <i className="fas fa-dna fa-spin mr-3"></i> Analyzing_Sequence...
+                            </div>
+                        )}
+                    </div>
+
+                    {result && (
+                        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 animate-slide-up">
+                            {/* Summary Tile */}
+                            <div className="lg:col-span-5 command-border bg-panel p-8">
+                                <div className="mono text-[10px] text-teal-500 font-bold mb-6 uppercase tracking-widest border-b border-slate-800 pb-4 flex justify-between">
+                                    <span>Identity_Profile</span>
+                                    <span>ID: {Math.random().toString(36).substr(2, 9).toUpperCase()}</span>
+                                </div>
+                                <div className="space-y-6">
+                                    {[
+                                        { l: 'Name', v: result.full_name },
+                                        { l: 'Email', v: result.email },
+                                        { l: 'Mobile No.', v: result.phone },
+                                        { l: 'Address', v: result.location },
+                                    ].map((item, i) => (
+                                        <div key={i} className="flex justify-between items-center border-b border-slate-800/50 pb-4">
+                                            <span className="mono text-[10px] text-slate-500 font-bold uppercase">{item.l}</span>
+                                            <span className="text-white font-bold tracking-tight">{item.v || 'UNKNOWN'}</span>
+                                        </div>
+                                    ))}
+                                </div>
+                            </div>
+
+                            {/* Skills Tile */}
+                            <div className="lg:col-span-7 command-border bg-panel p-8">
+                                <div className="mono text-[10px] text-teal-500 font-bold mb-6 uppercase tracking-widest border-b border-slate-800 pb-4">Technical_Matrix</div>
+                                <div className="flex flex-wrap gap-2">
+                                    {result.skills?.map((s, i) => (
+                                        <div key={i} className="bg-slate-900 border border-slate-800 px-4 py-2 flex items-center gap-3">
+                                            <span className="w-1.5 h-1.5 bg-teal-500 rounded-full shadow-[0_0_8px_#2dd4bf]"></span>
+                                            <span className="text-xs font-bold text-white uppercase tracking-tighter">{s.name}</span>
+                                            <span className="mono text-[8px] text-slate-600 font-black">{s.proficiency}</span>
+                                        </div>
+                                    )) || <div className="text-slate-600 mono text-xs uppercase">No_Data_Detected</div>}
+                                </div>
+                            </div>
+
+                            {/* Experience Timeline */}
+                            <div className="lg:col-span-12 command-border bg-panel p-10">
+                                <div className="mono text-[10px] text-teal-500 font-bold mb-8 uppercase tracking-widest border-b border-slate-800 pb-4">Operational_History</div>
+                                <div className="space-y-10">
+                                    {result.experience?.map((exp, i) => (
+                                        <div key={i} className="grid grid-cols-1 md:grid-cols-4 gap-8">
+                                            <div className="mono text-[10px] text-slate-500 font-bold uppercase">
+                                                {exp.duration}
+                                            </div>
+                                            <div className="md:col-span-3">
+                                                <h4 className="text-xl font-bold text-white uppercase tracking-tight mb-1">{exp.role}</h4>
+                                                <div className="mono text-xs text-teal-500 font-bold uppercase mb-4">{exp.company}</div>
+                                                <ul className="space-y-3">
+                                                    {exp.responsibilities?.map((res, j) => (
+                                                        <li key={j} className="text-slate-400 text-sm font-medium flex gap-3">
+                                                            <span className="text-teal-500 mt-1">»</span> {res}
+                                                        </li>
+                                                    ))}
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    )) || <div className="text-slate-600 italic">History_Null</div>}
+                                </div>
+                            </div>
+
+                            {/* Raw Data Readout */}
+                            <div className="lg:col-span-12 command-border bg-slate-950 p-8">
+                                <div className="mono text-[10px] text-slate-600 font-bold mb-4 uppercase tracking-widest">Raw_Source_Intelligence_Output</div>
+                                <div className="mono text-[11px] text-slate-500 max-h-48 overflow-y-auto whitespace-pre-wrap leading-relaxed">
+                                    {result.raw_source_text || "DATA_STREAM_EMPTY"}
+                                </div>
+                            </div>
+                        </div>
+                    )}
+                </div>
+            );
+        };
+
+        const MatcherView = () => {
+            const [file, setFile] = useState(null);
+            const [jd, setJd] = useState("");
+            const [loading, setLoading] = useState(false);
+            const [result, setResult] = useState(null);
+
+            const handleMatch = async () => {
+                setLoading(true);
+                const jd_data = { title: "Custom Role", description: jd, required_skills: [] };
+                const formData = new FormData();
+                formData.append('file', file);
+                formData.append('job_description_json', JSON.stringify(jd_data));
+                try {
+                    const response = await fetch(`${API_BASE_URL}/match/`, { 
+                        method: 'POST', 
+                        body: formData,
+                        headers: { 'X-API-KEY': 'error404-secret-key' }
+                    });
+                    const data = await response.json();
+                    if (!response.ok) {
+                        alert(`Error: ${data.detail || 'Failed to process match'}`);
+                        return;
+                    }
+                    setResult(data);
+                } catch (error) {
+                    console.error(error);
+                    alert("A connection error occurred. Please ensure the backend is running.");
+                } finally {
+                    setLoading(false);
+                }
+            };
+
+            return (
+                <div className="animate-slide-up">
+                    {!result ? (
+                        <div className="space-y-12">
+                            <div className="flex items-center justify-between border-b border-slate-800 pb-8">
+                                <div>
+                                    <h2 className="text-3xl font-black text-white uppercase tracking-tighter italic">Semantic Vector Matcher</h2>
+                                    <p className="mono text-xs text-teal-500 font-bold mt-1">CROSS_REFERENCING_CANDIDATE_VECTORS</p>
+                                </div>
+                            </div>
+                            <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                                <div className="command-border bg-panel p-10">
+                                    <div className="mono text-[10px] text-teal-500 font-bold mb-8 uppercase tracking-widest flex items-center gap-3">
+                                        <span className="w-2 h-2 bg-teal-500 rounded-full"></span> 01_SOURCE_SELECTION
+                                    </div>
+                                    <input type="file" id="mup" className="hidden" onChange={(e) => setFile(e.target.files[0])} />
+                                    <label htmlFor="mup" className="flex flex-col items-center justify-center h-56 border border-slate-800 rounded-lg cursor-pointer hover:bg-slate-900 transition-colors group">
+                                        <i className="fas fa-file-invoice text-3xl text-slate-700 mb-6 group-hover:text-teal-400"></i>
+                                        <span className="mono text-sm font-bold text-slate-500 group-hover:text-white uppercase">{file ? file.name : "Load_Document"}</span>
+                                    </label>
+                                </div>
+                                <div className="command-border bg-panel p-10">
+                                    <div className="mono text-[10px] text-teal-500 font-bold mb-8 uppercase tracking-widest flex items-center gap-3">
+                                        <span className="w-2 h-2 bg-teal-500 rounded-full"></span> 02_REQUIREMENT_INPUT
+                                    </div>
+                                    <textarea 
+                                        className="w-full h-56 bg-slate-950 border border-slate-800 rounded-lg p-6 mono text-xs text-teal-400 focus:outline-none focus:border-teal-500 transition-all"
+                                        placeholder="INPUT_JD_SPECIFICATIONS_HERE..."
+                                        value={jd}
+                                        onChange={(e) => setJd(e.target.value)}
+                                    ></textarea>
+                                </div>
+                            </div>
+                            <div className="text-center pt-8">
+                                <button 
+                                    onClick={handleMatch}
+                                    disabled={!file || !jd || loading}
+                                    className="btn-command min-w-[300px]"
+                                >
+                                    {loading ? "INITIALIZING_CROSS_MATCH..." : "Execute_Semantic_Analysis"}
+                                </button>
+                            </div>
+                        </div>
+                    ) : (
+                        <div className="animate-slide-up space-y-10">
+                            <div className="flex items-center justify-between border-b border-slate-800 pb-8">
+                                <button onClick={() => setResult(null)} className="mono text-[10px] font-bold text-teal-500 hover:text-white transition-colors uppercase tracking-widest flex items-center gap-3">
+                                    <i className="fas fa-chevron-left text-[8px]"></i> RESET_ANALYSIS_BUFFER
+                                </button>
+                                <div className="mono text-[10px] text-slate-600 text-right uppercase">MATCH_COMPLETED: 100%</div>
+                            </div>
+                            
+                            {result.match ? (
+                                <>
+                                    <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                                        {[
+                                            { l: 'Core_Alignment', v: result.match.overall_score, c: 'text-white' },
+                                            { l: 'Semantic_Depth', v: result.match.semantic_similarity, c: 'text-teal-400' },
+                                            { l: 'Technical_Overlap', v: result.match.skill_match_score, c: 'text-orange-400' },
+                                        ].map((s, i) => (
+                                            <div key={i} className="command-border bg-panel p-10 text-center">
+                                                <div className="mono text-[9px] text-slate-500 font-bold uppercase tracking-[0.2em] mb-6">{s.l}</div>
+                                                <div className={`text-6xl font-black italic tracking-tighter ${s.c}`}>{(s.v * 100).toFixed(0)}%</div>
+                                            </div>
+                                        ))}
+                                    </div>
+
+                                    <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                                        <div className="command-border bg-panel p-8">
+                                            <div className="mono text-[10px] text-teal-500 font-bold mb-8 uppercase tracking-widest border-b border-slate-800 pb-4">Subject_Competencies</div>
+                                            <div className="space-y-3">
+                                                {result.match.strengths.map((str, i) => (
+                                                    <div key={i} className="flex items-center gap-4 bg-slate-900 border border-slate-800 p-4">
+                                                        <i className="fas fa-check text-teal-500 text-xs"></i>
+                                                        <span className="mono text-xs font-bold text-white uppercase">{str}</span>
+                                                    </div>
+                                                ))}
+                                            </div>
+                                        </div>
+                                        <div className="command-border bg-panel p-8">
+                                            <div className="mono text-[10px] text-orange-500 font-bold mb-8 uppercase tracking-widest border-b border-slate-800 pb-4">Strategic_Gaps</div>
+                                            <div className="space-y-6">
+                                                {result.match.missing_skills.map((gap, i) => (
+                                                    <div key={i} className="group">
+                                                        <div className="mono text-xs font-bold text-white uppercase flex items-center gap-3 mb-3">
+                                                            <span className="w-1.5 h-1.5 bg-orange-500 rounded-full animate-pulse"></span> {gap.missing_skill}
+                                                        </div>
+                                                        <p className="mono text-[10px] text-slate-500 font-bold pl-5 leading-relaxed">
+                                                            // {gap.upskilling_path}
+                                                        </p>
+                                                    </div>
+                                                ))}
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    {/* AI Interview Strategy */}
+                                    {result.match.interview_plan && (
+                                        <div className="command-border bg-slate-900/50 p-12 overflow-hidden relative">
+                                            <div className="scan-line opacity-10"></div>
+                                            <div className="flex items-center gap-6 mb-12 border-b border-slate-800 pb-8">
+                                                <div className="w-12 h-12 bg-teal-500 text-bg-deep flex items-center justify-center">
+                                                    <i className="fas fa-microphone-lines text-xl"></i>
+                                                </div>
+                                                <div>
+                                                    <h3 className="text-2xl font-black text-white uppercase tracking-tighter italic">AI Interview Protocol</h3>
+                                                    <p className="mono text-[10px] text-teal-500 font-bold uppercase tracking-widest">Targeted_Candidate_Verification</p>
+                                                </div>
+                                            </div>
+                                            <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
+                                                <div className="lg:col-span-2 space-y-6">
+                                                    {result.match.interview_plan.questions.map((q, i) => (
+                                                        <div key={i} className="bg-slate-950 border border-slate-800 p-6 hover:border-teal-500/50 transition-colors">
+                                                            <div className="mono text-[8px] text-teal-500 font-black uppercase mb-3 tracking-widest">INTENT: {q.intent}</div>
+                                                            <p className="text-white font-bold mb-4 italic leading-relaxed">"{q.question}"</p>
+                                                            <div className="flex flex-wrap gap-2">
+                                                                {q.expected_topics.map((t, j) => (
+                                                                    <span key={j} className="mono text-[8px] border border-slate-800 px-2 py-1 text-slate-500 font-bold uppercase tracking-tighter">#{t}</span>
+                                                                ))}
+                                                            </div>
+                                                        </div>
+                                                    ))}
+                                                </div>
+                                                <div className="command-border bg-slate-950 p-8 h-fit">
+                                                    <div className="mono text-[9px] text-slate-600 font-bold uppercase tracking-[0.2em] mb-6">Strategic_Rationale</div>
+                                                    <p className="mono text-[11px] text-teal-400 font-medium italic leading-relaxed">
+                                                        "{result.match.interview_plan.rationale}"
+                                                    </p>
+                                                    <div className="mt-10 pt-8 border-t border-slate-900">
+                                                        <div className="mono text-[8px] font-black text-slate-700 uppercase flex items-center gap-3">
+                                                            <i className="fas fa-shield-halved"></i> SECURE_VERIFICATION_PROTOCOLS_ENABLED
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    )}
+                                </>
+                            ) : (
+                                <div className="command-border bg-panel p-24 text-center">
+                                    <div className="mono text-xs font-bold text-slate-600 uppercase tracking-[0.3em] animate-pulse">Awaiting_Data_Packet...</div>
+                                </div>
+                            )}
+                        </div>
+                    )}
+                </div>
+            );
+        };
+
+        const TaxonomyView = () => {
+            const [tax, setTax] = useState(null);
+            useEffect(() => {
+                fetch(`${API_BASE_URL}/skills/taxonomy`).then(r => r.json()).then(d => setTax(d));
+            }, []);
+
+            if (!tax) return <div className="mono text-xs text-teal-500 animate-pulse uppercase p-20 text-center">Loading_Skill_Matrix_Database...</div>;
+
+            const renderTree = (data, name) => {
+                if (Array.isArray(data)) {
+                    return (
+                        <div key={name} className="mb-6 bg-slate-950 border border-slate-900 p-6">
+                            <h4 className="mono text-[9px] font-black text-slate-600 uppercase tracking-[0.2em] mb-4 border-b border-slate-900 pb-2">{name}</h4>
+                            <div className="flex flex-wrap gap-2">
+                                {data.slice(0, 50).map(s => <span key={s} className="mono text-[10px] font-bold text-teal-400 border border-teal-900/30 px-3 py-1 hover:bg-teal-500/5 transition-colors">{s}</span>)}
+                                {data.length > 50 && <span className="mono text-[9px] text-slate-700 font-bold px-2 pt-1">+{data.length - 50}_MORE_ENTRIES</span>}
+                            </div>
+                        </div>
+                    );
+                }
+                return (
+                    <div key={name} className="mb-12">
+                        <h3 className="text-xl font-bold text-white uppercase tracking-tight mb-8 flex items-center gap-4">
+                            <span className="w-10 h-[1px] bg-teal-500"></span> {name}
+                        </h3>
+                        <div className="pl-6 grid grid-cols-1 md:grid-cols-2 gap-8 border-l border-slate-900">
+                            {Object.entries(data).map(([k, v]) => renderTree(v, k))}
+                        </div>
+                    </div>
+                );
+            };
+
+            return (
+                <div className="animate-slide-up">
+                    <div className="flex items-center justify-between mb-16 border-b border-slate-800 pb-8">
+                        <div>
+                            <h2 className="text-3xl font-black text-white uppercase tracking-tighter italic">Global Skill Taxonomy</h2>
+                            <p className="mono text-xs text-teal-500 font-bold mt-1">DATABASE_INDEX: 5,625_UNIQUE_ENTITIES</p>
+                        </div>
+                    </div>
+                    <div className="max-w-5xl">
+                        {Object.entries(tax).map(([k, v]) => renderTree(v, k))}
+                    </div>
+                </div>
+            );
+        };
+
+        // --- APP SHELL ---
+
+        const App = () => {
+            const [view, setView] = useState('landing'); // 'landing' or 'app'
+            const [navTarget, setNavTarget] = useState(null);
+
+            useEffect(() => {
+                if (view === 'landing' && navTarget) {
+                    const el = document.getElementById(navTarget);
+                    if (el) el.scrollIntoView({ behavior: 'smooth' });
+                    setNavTarget(null);
+                }
+            }, [view, navTarget]);
+
+            return (
+                <div className="antialiased">
+                    <Navbar view={view} setView={setView} setNavTarget={setNavTarget} />
+                    
+                    {view === 'landing' ? (
+                        <div className="animate-fadeIn">
+                            <Hero setView={setView} />
+                            <Features />
+                            <HowItWorks />
+                            <Capabilities />
+                            <footer className="py-20 border-t border-slate-900 text-center bg-panel relative overflow-hidden">
+                                <div className="scan-line opacity-5"></div>
+                                <div className="max-w-7xl mx-auto px-4 relative z-10">
+                                    <div className="mono text-[10px] text-slate-600 font-bold uppercase tracking-[0.4em] mb-4">
+                                        <span className="w-2 h-2 bg-teal-500 rounded-full inline-block mr-3 animate-pulse"></span>
+                                        System_Operational // Multiagent_AI_Network
+                                    </div>
+                                    <p className="mono text-[9px] text-slate-700 font-medium tracking-widest uppercase">
+                                        Error404_Agentic_Talent_Intelligence_Suite_v1.0.4
+                                    </p>
+                                </div>
+                            </footer>
+                        </div>
+                    ) : (
+                        <DashboardLayout setView={setView} />
+                    )}
+                </div>
+            );
+        };
+
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<App />);
+    </script>
+</body>
+</html>

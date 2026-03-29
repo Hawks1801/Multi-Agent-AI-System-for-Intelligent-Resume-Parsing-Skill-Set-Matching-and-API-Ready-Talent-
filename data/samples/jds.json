@@ -1,0 +1,2055 @@
+[
+  {
+    "id": "jd_1",
+    "title": "Junior Data Scientist",
+    "description": "We are looking for a Junior Data Scientist to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Express.js, Prometheus, Scala, Rust, GitLab CI.",
+    "required_skills": [
+      "Express.js",
+      "Prometheus",
+      "Scala",
+      "Rust",
+      "GitLab CI"
+    ],
+    "nice_to_have_skills": [
+      "Linkerd",
+      "Flask",
+      "HTML5",
+      "Gensim"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_2",
+    "title": "Principal DevOps Engineer",
+    "description": "We are looking for a Principal DevOps Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Flask, MLflow, MATLAB, Penetration Testing.",
+    "required_skills": [
+      "Flask",
+      "MLflow",
+      "MATLAB",
+      "Penetration Testing"
+    ],
+    "nice_to_have_skills": [
+      "ASP.NET Core",
+      "Fiber"
+    ],
+    "experience_level": "Principal"
+  },
+  {
+    "id": "jd_3",
+    "title": "Senior Machine Learning Engineer",
+    "description": "We are looking for a Senior Machine Learning Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Vyper, Gensim, Redux, Go, SIEM, Spacy.",
+    "required_skills": [
+      "Vyper",
+      "Gensim",
+      "Redux",
+      "Go",
+      "SIEM",
+      "Spacy"
+    ],
+    "nice_to_have_skills": [
+      "PyTorch",
+      "EC2",
+      "Erlang"
+    ],
+    "experience_level": "Senior"
+  },
+  {
+    "id": "jd_4",
+    "title": "Lead Software Engineer",
+    "description": "We are looking for a Lead Software Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Kubernetes, MobX, Echo, Azure, DynamoDB, Three.js.",
+    "required_skills": [
+      "Kubernetes",
+      "MobX",
+      "Echo",
+      "Azure",
+      "DynamoDB",
+      "Three.js"
+    ],
+    "nice_to_have_skills": [
+      "Prolog",
+      "Node.js",
+      "Laravel",
+      "Nuxt.js"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_5",
+    "title": "Junior Backend Engineer",
+    "description": "We are looking for a Junior Backend Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Node.js, Objective-C, Kubernetes, Haskell, Flask, MongoDB.",
+    "required_skills": [
+      "Node.js",
+      "Objective-C",
+      "Kubernetes",
+      "Haskell",
+      "Flask",
+      "MongoDB"
+    ],
+    "nice_to_have_skills": [
+      "ASP.NET Core",
+      "C#",
+      "Docker"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_6",
+    "title": "Lead Backend Engineer",
+    "description": "We are looking for a Lead Backend Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Svelte, Terraform, Echo, Identity Management, Flask, Hapi, Erlang.",
+    "required_skills": [
+      "Svelte",
+      "Terraform",
+      "Echo",
+      "Identity Management",
+      "Flask",
+      "Hapi",
+      "Erlang"
+    ],
+    "nice_to_have_skills": [
+      "Julia",
+      "Assembly"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_7",
+    "title": "Staff Frontend Developer",
+    "description": "We are looking for a Staff Frontend Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Hugging Face, Grafana, JavaScript, Spacy, Recoil.",
+    "required_skills": [
+      "Hugging Face",
+      "Grafana",
+      "JavaScript",
+      "Spacy",
+      "Recoil"
+    ],
+    "nice_to_have_skills": [
+      "Angular",
+      "Echo",
+      "Node.js",
+      "LangChain"
+    ],
+    "experience_level": "Staff"
+  },
+  {
+    "id": "jd_8",
+    "title": "Principal Mobile App Developer",
+    "description": "We are looking for a Principal Mobile App Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using HTML5, Ruby on Rails, Solidity, Redux, F#, JavaScript.",
+    "required_skills": [
+      "HTML5",
+      "Ruby on Rails",
+      "Solidity",
+      "Redux",
+      "F#",
+      "JavaScript"
+    ],
+    "nice_to_have_skills": [
+      "Angular",
+      "Application Security",
+      "Ruby"
+    ],
+    "experience_level": "Principal"
+  },
+  {
+    "id": "jd_9",
+    "title": "Lead DevOps Engineer",
+    "description": "We are looking for a Lead DevOps Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Redshift, Reinforcement Learning, Istio, Flask.",
+    "required_skills": [
+      "Redshift",
+      "Reinforcement Learning",
+      "Istio",
+      "Flask"
+    ],
+    "nice_to_have_skills": [
+      "Docker",
+      "Gensim",
+      "NLP"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_10",
+    "title": "Senior Cybersecurity Analyst",
+    "description": "We are looking for a Senior Cybersecurity Analyst to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Snowflake, F#, Cryptography, Network Security.",
+    "required_skills": [
+      "Snowflake",
+      "F#",
+      "Cryptography",
+      "Network Security"
+    ],
+    "nice_to_have_skills": [
+      "DynamoDB",
+      "Fastify"
+    ],
+    "experience_level": "Senior"
+  },
+  {
+    "id": "jd_11",
+    "title": "Principal Quality Assurance Engineer",
+    "description": "We are looking for a Principal Quality Assurance Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Cryptography, Application Security, Fiber, Cloud Run, React.",
+    "required_skills": [
+      "Cryptography",
+      "Application Security",
+      "Fiber",
+      "Cloud Run",
+      "React"
+    ],
+    "nice_to_have_skills": [
+      "Nuxt.js",
+      "GitLab CI",
+      "ArangoDB",
+      "Phoenix"
+    ],
+    "experience_level": "Principal"
+  },
+  {
+    "id": "jd_12",
+    "title": "Staff DevOps Engineer",
+    "description": "We are looking for a Staff DevOps Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using BigQuery, Reinforcement Learning, NLTK, LLMs.",
+    "required_skills": [
+      "BigQuery",
+      "Reinforcement Learning",
+      "NLTK",
+      "LLMs"
+    ],
+    "nice_to_have_skills": [
+      "MATLAB",
+      "TypeScript",
+      "CircleCI",
+      "Kotlin"
+    ],
+    "experience_level": "Staff"
+  },
+  {
+    "id": "jd_13",
+    "title": "Junior UI/UX Designer",
+    "description": "We are looking for a Junior UI/UX Designer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Python, Angular, TensorFlow, Jenkins, Flask.",
+    "required_skills": [
+      "Python",
+      "Angular",
+      "TensorFlow",
+      "Jenkins",
+      "Flask"
+    ],
+    "nice_to_have_skills": [
+      "DynamoDB",
+      "NumPy",
+      "Cloud Run",
+      "Ethical Hacking"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_14",
+    "title": "Lead UI/UX Designer",
+    "description": "We are looking for a Lead UI/UX Designer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Terraform, Zero Trust, Fortran, Lambda, Express.js.",
+    "required_skills": [
+      "Terraform",
+      "Zero Trust",
+      "Fortran",
+      "Lambda",
+      "Express.js"
+    ],
+    "nice_to_have_skills": [
+      "IDS/IPS",
+      "Redshift"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_15",
+    "title": "Senior UI/UX Designer",
+    "description": "We are looking for a Senior UI/UX Designer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Azure, GitHub Actions, NumPy, PyTorch, CSS3, LLMs, F#.",
+    "required_skills": [
+      "Azure",
+      "GitHub Actions",
+      "NumPy",
+      "PyTorch",
+      "CSS3",
+      "LLMs",
+      "F#"
+    ],
+    "nice_to_have_skills": [
+      "MLflow",
+      "NLP",
+      "Keras",
+      "MATLAB"
+    ],
+    "experience_level": "Senior"
+  },
+  {
+    "id": "jd_16",
+    "title": "Staff Cloud Architect",
+    "description": "We are looking for a Staff Cloud Architect to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Ansible, Gin, Vyper, CircleCI, AWS.",
+    "required_skills": [
+      "Ansible",
+      "Gin",
+      "Vyper",
+      "CircleCI",
+      "AWS"
+    ],
+    "nice_to_have_skills": [
+      "Kotlin",
+      "Laravel"
+    ],
+    "experience_level": "Staff"
+  },
+  {
+    "id": "jd_17",
+    "title": "Junior Data Scientist",
+    "description": "We are looking for a Junior Data Scientist to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Vuex, MATLAB, MariaDB, PHP, TensorFlow, Nmap, ClickHouse.",
+    "required_skills": [
+      "Vuex",
+      "MATLAB",
+      "MariaDB",
+      "PHP",
+      "TensorFlow",
+      "Nmap",
+      "ClickHouse"
+    ],
+    "nice_to_have_skills": [
+      "Fiber",
+      "Laravel",
+      "ASP.NET Core",
+      "Solidity"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_18",
+    "title": "Senior Software Engineer",
+    "description": "We are looking for a Senior Software Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using R, RDS, Phoenix, MLOps, Java, Snowflake.",
+    "required_skills": [
+      "R",
+      "RDS",
+      "Phoenix",
+      "MLOps",
+      "Java",
+      "Snowflake"
+    ],
+    "nice_to_have_skills": [
+      "Penetration Testing",
+      "IDS/IPS",
+      "Computer Vision",
+      "EC2"
+    ],
+    "experience_level": "Senior"
+  },
+  {
+    "id": "jd_19",
+    "title": "Principal Backend Engineer",
+    "description": "We are looking for a Principal Backend Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Redshift, Neo4j, Next.js, Terraform, Java, Elasticsearch, Ruby.",
+    "required_skills": [
+      "Redshift",
+      "Neo4j",
+      "Next.js",
+      "Terraform",
+      "Java",
+      "Elasticsearch",
+      "Ruby"
+    ],
+    "nice_to_have_skills": [
+      "LESS",
+      "IDS/IPS",
+      "Go"
+    ],
+    "experience_level": "Principal"
+  },
+  {
+    "id": "jd_20",
+    "title": "Junior Cybersecurity Analyst",
+    "description": "We are looking for a Junior Cybersecurity Analyst to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using SQL Server, PostgreSQL, Fastify, Grafana, Pandas, Linkerd.",
+    "required_skills": [
+      "SQL Server",
+      "PostgreSQL",
+      "Fastify",
+      "Grafana",
+      "Pandas",
+      "Linkerd"
+    ],
+    "nice_to_have_skills": [
+      "LangChain",
+      "Ruby"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_21",
+    "title": "Staff Backend Engineer",
+    "description": "We are looking for a Staff Backend Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Angular, Nuxt.js, Hapi, Python, BigQuery.",
+    "required_skills": [
+      "Angular",
+      "Nuxt.js",
+      "Hapi",
+      "Python",
+      "BigQuery"
+    ],
+    "nice_to_have_skills": [
+      "Ruby on Rails",
+      "ClickHouse",
+      "NLP"
+    ],
+    "experience_level": "Staff"
+  },
+  {
+    "id": "jd_22",
+    "title": "Principal Frontend Developer",
+    "description": "We are looking for a Principal Frontend Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Shell Scripting, Echo, Istio, Java, Elasticsearch, Spring Boot.",
+    "required_skills": [
+      "Shell Scripting",
+      "Echo",
+      "Istio",
+      "Java",
+      "Elasticsearch",
+      "Spring Boot"
+    ],
+    "nice_to_have_skills": [
+      "Hapi",
+      "PHP",
+      "F#"
+    ],
+    "experience_level": "Principal"
+  },
+  {
+    "id": "jd_23",
+    "title": "Senior Mobile App Developer",
+    "description": "We are looking for a Senior Mobile App Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Ruby on Rails, GitLab CI, Nuxt.js, Solidity.",
+    "required_skills": [
+      "Ruby on Rails",
+      "GitLab CI",
+      "Nuxt.js",
+      "Solidity"
+    ],
+    "nice_to_have_skills": [
+      "ELK Stack",
+      "Echo",
+      "Redshift",
+      "LangChain"
+    ],
+    "experience_level": "Senior"
+  },
+  {
+    "id": "jd_24",
+    "title": "Lead Frontend Developer",
+    "description": "We are looking for a Lead Frontend Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Rust, Identity Management, DynamoDB, GitHub Actions, Shell Scripting, Assembly, Laravel.",
+    "required_skills": [
+      "Rust",
+      "Identity Management",
+      "DynamoDB",
+      "GitHub Actions",
+      "Shell Scripting",
+      "Assembly",
+      "Laravel"
+    ],
+    "nice_to_have_skills": [
+      "Redux",
+      "Tailwind CSS",
+      "Deep Learning",
+      "Wireshark"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_25",
+    "title": "Principal Data Scientist",
+    "description": "We are looking for a Principal Data Scientist to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using DynamoDB, Lisp, LESS, Bootstrap.",
+    "required_skills": [
+      "DynamoDB",
+      "Lisp",
+      "LESS",
+      "Bootstrap"
+    ],
+    "nice_to_have_skills": [
+      "LangChain",
+      "SIEM",
+      "NLP"
+    ],
+    "experience_level": "Principal"
+  },
+  {
+    "id": "jd_26",
+    "title": "Staff Quality Assurance Engineer",
+    "description": "We are looking for a Staff Quality Assurance Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using TensorFlow, Solidity, Fastify, IDS/IPS, Fortran, Fargate.",
+    "required_skills": [
+      "TensorFlow",
+      "Solidity",
+      "Fastify",
+      "IDS/IPS",
+      "Fortran",
+      "Fargate"
+    ],
+    "nice_to_have_skills": [
+      "Scala",
+      "Perl"
+    ],
+    "experience_level": "Staff"
+  },
+  {
+    "id": "jd_27",
+    "title": "Senior Machine Learning Engineer",
+    "description": "We are looking for a Senior Machine Learning Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using PHP, Docker, Snowflake, Redshift, GCP, Reinforcement Learning, IDS/IPS.",
+    "required_skills": [
+      "PHP",
+      "Docker",
+      "Snowflake",
+      "Redshift",
+      "GCP",
+      "Reinforcement Learning",
+      "IDS/IPS"
+    ],
+    "nice_to_have_skills": [
+      "SIEM",
+      "Python"
+    ],
+    "experience_level": "Senior"
+  },
+  {
+    "id": "jd_28",
+    "title": "Staff System Administrator",
+    "description": "We are looking for a Staff System Administrator to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Kotlin, Go, Neo4j, LLMs.",
+    "required_skills": [
+      "Kotlin",
+      "Go",
+      "Neo4j",
+      "LLMs"
+    ],
+    "nice_to_have_skills": [
+      "PostgreSQL",
+      "Scikit-learn",
+      "Ethical Hacking",
+      "PHP"
+    ],
+    "experience_level": "Staff"
+  },
+  {
+    "id": "jd_29",
+    "title": "Principal Frontend Developer",
+    "description": "We are looking for a Principal Frontend Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Wireshark, MATLAB, Haskell, Gensim.",
+    "required_skills": [
+      "Wireshark",
+      "MATLAB",
+      "Haskell",
+      "Gensim"
+    ],
+    "nice_to_have_skills": [
+      "Vyper",
+      "Docker"
+    ],
+    "experience_level": "Principal"
+  },
+  {
+    "id": "jd_30",
+    "title": "Staff Quality Assurance Engineer",
+    "description": "We are looking for a Staff Quality Assurance Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using MLflow, Snowflake, Jenkins, Python, Neo4j, Angular.",
+    "required_skills": [
+      "MLflow",
+      "Snowflake",
+      "Jenkins",
+      "Python",
+      "Neo4j",
+      "Angular"
+    ],
+    "nice_to_have_skills": [
+      "Vyper",
+      "Kotlin",
+      "Hapi",
+      "Ethical Hacking"
+    ],
+    "experience_level": "Staff"
+  },
+  {
+    "id": "jd_31",
+    "title": "Staff Machine Learning Engineer",
+    "description": "We are looking for a Staff Machine Learning Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Ethical Hacking, Kotlin, Ansible, Azure, SQL Server, Solidity, Julia.",
+    "required_skills": [
+      "Ethical Hacking",
+      "Kotlin",
+      "Ansible",
+      "Azure",
+      "SQL Server",
+      "Solidity",
+      "Julia"
+    ],
+    "nice_to_have_skills": [
+      "Spacy",
+      "PostgreSQL",
+      "Neo4j"
+    ],
+    "experience_level": "Staff"
+  },
+  {
+    "id": "jd_32",
+    "title": "Lead Full Stack Developer",
+    "description": "We are looking for a Lead Full Stack Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Echo, Cloud Security, Scala, JavaScript, Metasploit, Penetration Testing.",
+    "required_skills": [
+      "Echo",
+      "Cloud Security",
+      "Scala",
+      "JavaScript",
+      "Metasploit",
+      "Penetration Testing"
+    ],
+    "nice_to_have_skills": [
+      "TensorFlow",
+      "Rust",
+      "FastAPI"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_33",
+    "title": "Lead Backend Engineer",
+    "description": "We are looking for a Lead Backend Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Gensim, CSS3, ArangoDB, Pulumi.",
+    "required_skills": [
+      "Gensim",
+      "CSS3",
+      "ArangoDB",
+      "Pulumi"
+    ],
+    "nice_to_have_skills": [
+      "Svelte",
+      "MySQL",
+      "Cassandra"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_34",
+    "title": "Staff Full Stack Developer",
+    "description": "We are looking for a Staff Full Stack Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Ruby on Rails, Backbone.js, Machine Learning, JavaScript.",
+    "required_skills": [
+      "Ruby on Rails",
+      "Backbone.js",
+      "Machine Learning",
+      "JavaScript"
+    ],
+    "nice_to_have_skills": [
+      "Java",
+      "Pandas",
+      "Ruby",
+      "ASP.NET Core"
+    ],
+    "experience_level": "Staff"
+  },
+  {
+    "id": "jd_35",
+    "title": "Lead Full Stack Developer",
+    "description": "We are looking for a Lead Full Stack Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Prometheus, Rust, PostgreSQL, Grafana, Kubeflow, MariaDB.",
+    "required_skills": [
+      "Prometheus",
+      "Rust",
+      "PostgreSQL",
+      "Grafana",
+      "Kubeflow",
+      "MariaDB"
+    ],
+    "nice_to_have_skills": [
+      "OpenCV",
+      "GitHub Actions"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_36",
+    "title": "Junior Frontend Developer",
+    "description": "We are looking for a Junior Frontend Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using HTML5, CircleCI, FastAPI, TypeScript, JavaScript, MongoDB, Istio.",
+    "required_skills": [
+      "HTML5",
+      "CircleCI",
+      "FastAPI",
+      "TypeScript",
+      "JavaScript",
+      "MongoDB",
+      "Istio"
+    ],
+    "nice_to_have_skills": [
+      "Python",
+      "MATLAB",
+      "Network Security",
+      "DynamoDB"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_37",
+    "title": "Senior Cloud Architect",
+    "description": "We are looking for a Senior Cloud Architect to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Spring Boot, Erlang, Fiber, Laravel, Assembly.",
+    "required_skills": [
+      "Spring Boot",
+      "Erlang",
+      "Fiber",
+      "Laravel",
+      "Assembly"
+    ],
+    "nice_to_have_skills": [
+      "Objective-C",
+      "Seaborn"
+    ],
+    "experience_level": "Senior"
+  },
+  {
+    "id": "jd_38",
+    "title": "Junior Cybersecurity Analyst",
+    "description": "We are looking for a Junior Cybersecurity Analyst to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using OpenCV, Ansible, Grafana, SASS, Backbone.js, MariaDB, Wireshark.",
+    "required_skills": [
+      "OpenCV",
+      "Ansible",
+      "Grafana",
+      "SASS",
+      "Backbone.js",
+      "MariaDB",
+      "Wireshark"
+    ],
+    "nice_to_have_skills": [
+      "Gensim",
+      "Hapi"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_39",
+    "title": "Principal Backend Engineer",
+    "description": "We are looking for a Principal Backend Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using MongoDB, PHP, SASS, F#, BigQuery, WebAssembly.",
+    "required_skills": [
+      "MongoDB",
+      "PHP",
+      "SASS",
+      "F#",
+      "BigQuery",
+      "WebAssembly"
+    ],
+    "nice_to_have_skills": [
+      "Cloud Security",
+      "IDS/IPS",
+      "LLMs"
+    ],
+    "experience_level": "Principal"
+  },
+  {
+    "id": "jd_40",
+    "title": "Lead Data Engineer",
+    "description": "We are looking for a Lead Data Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Prolog, DynamoDB, Elasticsearch, Angular, Shell Scripting.",
+    "required_skills": [
+      "Prolog",
+      "DynamoDB",
+      "Elasticsearch",
+      "Angular",
+      "Shell Scripting"
+    ],
+    "nice_to_have_skills": [
+      "Ruby on Rails",
+      "Cryptography",
+      "Terraform"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_41",
+    "title": "Senior System Administrator",
+    "description": "We are looking for a Senior System Administrator to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Wireshark, TypeScript, ASP.NET Core, Prometheus.",
+    "required_skills": [
+      "Wireshark",
+      "TypeScript",
+      "ASP.NET Core",
+      "Prometheus"
+    ],
+    "nice_to_have_skills": [
+      "Shell Scripting",
+      "F#",
+      "GitLab CI",
+      "MobX"
+    ],
+    "experience_level": "Senior"
+  },
+  {
+    "id": "jd_42",
+    "title": "Principal Data Scientist",
+    "description": "We are looking for a Principal Data Scientist to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using DynamoDB, Kubernetes, Lisp, Docker, Neo4j.",
+    "required_skills": [
+      "DynamoDB",
+      "Kubernetes",
+      "Lisp",
+      "Docker",
+      "Neo4j"
+    ],
+    "nice_to_have_skills": [
+      "IDS/IPS",
+      "Go"
+    ],
+    "experience_level": "Principal"
+  },
+  {
+    "id": "jd_43",
+    "title": "Principal UI/UX Designer",
+    "description": "We are looking for a Principal UI/UX Designer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using PyTorch, NumPy, Shell Scripting, Linkerd, Kotlin, Istio, Cassandra.",
+    "required_skills": [
+      "PyTorch",
+      "NumPy",
+      "Shell Scripting",
+      "Linkerd",
+      "Kotlin",
+      "Istio",
+      "Cassandra"
+    ],
+    "nice_to_have_skills": [
+      "MariaDB",
+      "Java",
+      "Docker"
+    ],
+    "experience_level": "Principal"
+  },
+  {
+    "id": "jd_44",
+    "title": "Lead Product Manager",
+    "description": "We are looking for a Lead Product Manager to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Matplotlib, Serverless, CSS3, Cloud Run, NLTK, Scala, FastAPI.",
+    "required_skills": [
+      "Matplotlib",
+      "Serverless",
+      "CSS3",
+      "Cloud Run",
+      "NLTK",
+      "Scala",
+      "FastAPI"
+    ],
+    "nice_to_have_skills": [
+      "Solidity",
+      "ELK Stack",
+      "Flask",
+      "React"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_45",
+    "title": "Senior Mobile App Developer",
+    "description": "We are looking for a Senior Mobile App Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Azure, AWS, Ember.js, MATLAB, RDS, BigQuery.",
+    "required_skills": [
+      "Azure",
+      "AWS",
+      "Ember.js",
+      "MATLAB",
+      "RDS",
+      "BigQuery"
+    ],
+    "nice_to_have_skills": [
+      "Angular",
+      "PHP"
+    ],
+    "experience_level": "Senior"
+  },
+  {
+    "id": "jd_46",
+    "title": "Senior Cybersecurity Analyst",
+    "description": "We are looking for a Senior Cybersecurity Analyst to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using MySQL, ELK Stack, Snowflake, IDS/IPS.",
+    "required_skills": [
+      "MySQL",
+      "ELK Stack",
+      "Snowflake",
+      "IDS/IPS"
+    ],
+    "nice_to_have_skills": [
+      "Go",
+      "NLTK"
+    ],
+    "experience_level": "Senior"
+  },
+  {
+    "id": "jd_47",
+    "title": "Lead Software Engineer",
+    "description": "We are looking for a Lead Software Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using ELK Stack, Ember.js, Reinforcement Learning, Phoenix, C#.",
+    "required_skills": [
+      "ELK Stack",
+      "Ember.js",
+      "Reinforcement Learning",
+      "Phoenix",
+      "C#"
+    ],
+    "nice_to_have_skills": [
+      "Metasploit",
+      "Express.js",
+      "Bootstrap"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_48",
+    "title": "Senior Full Stack Developer",
+    "description": "We are looking for a Senior Full Stack Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using TensorFlow, Koa, DynamoDB, MLflow, Pulumi, ASP.NET Core, C#.",
+    "required_skills": [
+      "TensorFlow",
+      "Koa",
+      "DynamoDB",
+      "MLflow",
+      "Pulumi",
+      "ASP.NET Core",
+      "C#"
+    ],
+    "nice_to_have_skills": [
+      "Cloud Security",
+      "Redshift",
+      "NumPy"
+    ],
+    "experience_level": "Senior"
+  },
+  {
+    "id": "jd_49",
+    "title": "Lead Cybersecurity Analyst",
+    "description": "We are looking for a Lead Cybersecurity Analyst to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using RDS, IDS/IPS, Wireshark, SQL Server, Prometheus.",
+    "required_skills": [
+      "RDS",
+      "IDS/IPS",
+      "Wireshark",
+      "SQL Server",
+      "Prometheus"
+    ],
+    "nice_to_have_skills": [
+      "Vue.js",
+      "Pandas",
+      "LESS",
+      "ELK Stack"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_50",
+    "title": "Lead Mobile App Developer",
+    "description": "We are looking for a Lead Mobile App Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Redshift, TensorFlow, Three.js, Nuxt.js.",
+    "required_skills": [
+      "Redshift",
+      "TensorFlow",
+      "Three.js",
+      "Nuxt.js"
+    ],
+    "nice_to_have_skills": [
+      "MLflow",
+      "Prometheus"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_51",
+    "title": "Staff Frontend Developer",
+    "description": "We are looking for a Staff Frontend Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Vyper, NLP, Ruby on Rails, Pandas, Ethical Hacking, Zustand, Scikit-learn.",
+    "required_skills": [
+      "Vyper",
+      "NLP",
+      "Ruby on Rails",
+      "Pandas",
+      "Ethical Hacking",
+      "Zustand",
+      "Scikit-learn"
+    ],
+    "nice_to_have_skills": [
+      "Fargate",
+      "Ruby",
+      "Snowflake",
+      "OpenCV"
+    ],
+    "experience_level": "Staff"
+  },
+  {
+    "id": "jd_52",
+    "title": "Lead Software Engineer",
+    "description": "We are looking for a Lead Software Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Phoenix, ArangoDB, PostgreSQL, Jenkins.",
+    "required_skills": [
+      "Phoenix",
+      "ArangoDB",
+      "PostgreSQL",
+      "Jenkins"
+    ],
+    "nice_to_have_skills": [
+      "CircleCI",
+      "Prolog"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_53",
+    "title": "Lead Data Scientist",
+    "description": "We are looking for a Lead Data Scientist to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using RDS, CSS3, Cloud Run, Node.js, Zustand, Fastify.",
+    "required_skills": [
+      "RDS",
+      "CSS3",
+      "Cloud Run",
+      "Node.js",
+      "Zustand",
+      "Fastify"
+    ],
+    "nice_to_have_skills": [
+      "Pinia",
+      "FastAPI",
+      "Python"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_54",
+    "title": "Junior Software Engineer",
+    "description": "We are looking for a Junior Software Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Scikit-learn, RDS, Echo, Redis, PHP, Cryptography, Deep Learning.",
+    "required_skills": [
+      "Scikit-learn",
+      "RDS",
+      "Echo",
+      "Redis",
+      "PHP",
+      "Cryptography",
+      "Deep Learning"
+    ],
+    "nice_to_have_skills": [
+      "Cassandra",
+      "Kotlin",
+      "Spring Boot",
+      "Ruby on Rails"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_55",
+    "title": "Lead Software Engineer",
+    "description": "We are looking for a Lead Software Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using AWS, Vue.js, SIEM, Pinia, Machine Learning, Fargate, Go.",
+    "required_skills": [
+      "AWS",
+      "Vue.js",
+      "SIEM",
+      "Pinia",
+      "Machine Learning",
+      "Fargate",
+      "Go"
+    ],
+    "nice_to_have_skills": [
+      "PyTorch",
+      "Application Security",
+      "CSS3"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_56",
+    "title": "Lead Quality Assurance Engineer",
+    "description": "We are looking for a Lead Quality Assurance Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Swift, Kubeflow, R, DynamoDB, Matplotlib, LLMs, Java.",
+    "required_skills": [
+      "Swift",
+      "Kubeflow",
+      "R",
+      "DynamoDB",
+      "Matplotlib",
+      "LLMs",
+      "Java"
+    ],
+    "nice_to_have_skills": [
+      "RDS",
+      "Node.js",
+      "Fortran",
+      "Django"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_57",
+    "title": "Lead DevOps Engineer",
+    "description": "We are looking for a Lead DevOps Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Nmap, Ember.js, Oracle, Jenkins, FastAPI, LangChain.",
+    "required_skills": [
+      "Nmap",
+      "Ember.js",
+      "Oracle",
+      "Jenkins",
+      "FastAPI",
+      "LangChain"
+    ],
+    "nice_to_have_skills": [
+      "Fiber",
+      "SASS"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_58",
+    "title": "Junior Product Manager",
+    "description": "We are looking for a Junior Product Manager to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using F#, Redshift, LangChain, Hugging Face, Network Security, Next.js, Vyper.",
+    "required_skills": [
+      "F#",
+      "Redshift",
+      "LangChain",
+      "Hugging Face",
+      "Network Security",
+      "Next.js",
+      "Vyper"
+    ],
+    "nice_to_have_skills": [
+      "RDS",
+      "Ruby on Rails"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_59",
+    "title": "Staff System Administrator",
+    "description": "We are looking for a Staff System Administrator to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using MLOps, GitHub Actions, Neo4j, TensorFlow, CSS3, Three.js, FastAPI.",
+    "required_skills": [
+      "MLOps",
+      "GitHub Actions",
+      "Neo4j",
+      "TensorFlow",
+      "CSS3",
+      "Three.js",
+      "FastAPI"
+    ],
+    "nice_to_have_skills": [
+      "JavaScript",
+      "EC2",
+      "C++",
+      "DynamoDB"
+    ],
+    "experience_level": "Staff"
+  },
+  {
+    "id": "jd_60",
+    "title": "Staff DevOps Engineer",
+    "description": "We are looking for a Staff DevOps Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Recoil, Swift, LESS, Network Security, Phoenix, Redux.",
+    "required_skills": [
+      "Recoil",
+      "Swift",
+      "LESS",
+      "Network Security",
+      "Phoenix",
+      "Redux"
+    ],
+    "nice_to_have_skills": [
+      "Rust",
+      "COBOL",
+      "Lambda"
+    ],
+    "experience_level": "Staff"
+  },
+  {
+    "id": "jd_61",
+    "title": "Junior Frontend Developer",
+    "description": "We are looking for a Junior Frontend Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using ArangoDB, TensorFlow, Neo4j, Julia, Flask, NLP, Lambda.",
+    "required_skills": [
+      "ArangoDB",
+      "TensorFlow",
+      "Neo4j",
+      "Julia",
+      "Flask",
+      "NLP",
+      "Lambda"
+    ],
+    "nice_to_have_skills": [
+      "JavaScript",
+      "GCP"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_62",
+    "title": "Staff UI/UX Designer",
+    "description": "We are looking for a Staff UI/UX Designer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using NLP, Ethical Hacking, JavaScript, Haskell, Nmap, TypeScript.",
+    "required_skills": [
+      "NLP",
+      "Ethical Hacking",
+      "JavaScript",
+      "Haskell",
+      "Nmap",
+      "TypeScript"
+    ],
+    "nice_to_have_skills": [
+      "Elasticsearch",
+      "Assembly",
+      "IDS/IPS",
+      "AWS"
+    ],
+    "experience_level": "Staff"
+  },
+  {
+    "id": "jd_63",
+    "title": "Junior Cybersecurity Analyst",
+    "description": "We are looking for a Junior Cybersecurity Analyst to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using SQL Server, Vuex, Keras, Cryptography, HTML5.",
+    "required_skills": [
+      "SQL Server",
+      "Vuex",
+      "Keras",
+      "Cryptography",
+      "HTML5"
+    ],
+    "nice_to_have_skills": [
+      "Zustand",
+      "ASP.NET Core"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_64",
+    "title": "Staff Frontend Developer",
+    "description": "We are looking for a Staff Frontend Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Koa, Dart, Lambda, Perl, Linkerd, Ruby, Node.js.",
+    "required_skills": [
+      "Koa",
+      "Dart",
+      "Lambda",
+      "Perl",
+      "Linkerd",
+      "Ruby",
+      "Node.js"
+    ],
+    "nice_to_have_skills": [
+      "Recoil",
+      "Gin",
+      "AWS"
+    ],
+    "experience_level": "Staff"
+  },
+  {
+    "id": "jd_65",
+    "title": "Lead Frontend Developer",
+    "description": "We are looking for a Lead Frontend Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using EC2, ArangoDB, CSS3, Hugging Face, GitHub Actions, Swift.",
+    "required_skills": [
+      "EC2",
+      "ArangoDB",
+      "CSS3",
+      "Hugging Face",
+      "GitHub Actions",
+      "Swift"
+    ],
+    "nice_to_have_skills": [
+      "Zustand",
+      "Redshift"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_66",
+    "title": "Senior Data Engineer",
+    "description": "We are looking for a Senior Data Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using ASP.NET Core, Ruby, Kotlin, FastAPI, Linkerd, MLflow, LLMs.",
+    "required_skills": [
+      "ASP.NET Core",
+      "Ruby",
+      "Kotlin",
+      "FastAPI",
+      "Linkerd",
+      "MLflow",
+      "LLMs"
+    ],
+    "nice_to_have_skills": [
+      "MongoDB",
+      "Fortran",
+      "React"
+    ],
+    "experience_level": "Senior"
+  },
+  {
+    "id": "jd_67",
+    "title": "Lead Mobile App Developer",
+    "description": "We are looking for a Lead Mobile App Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Cryptography, Ethical Hacking, EC2, Perl, Nmap.",
+    "required_skills": [
+      "Cryptography",
+      "Ethical Hacking",
+      "EC2",
+      "Perl",
+      "Nmap"
+    ],
+    "nice_to_have_skills": [
+      "Seaborn",
+      "Spacy"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_68",
+    "title": "Junior Frontend Developer",
+    "description": "We are looking for a Junior Frontend Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using GitLab CI, Pulumi, Terraform, CircleCI.",
+    "required_skills": [
+      "GitLab CI",
+      "Pulumi",
+      "Terraform",
+      "CircleCI"
+    ],
+    "nice_to_have_skills": [
+      "Shell Scripting",
+      "Lambda",
+      "Istio"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_69",
+    "title": "Junior Backend Engineer",
+    "description": "We are looking for a Junior Backend Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Lambda, Redux, PHP, Shell Scripting, Recoil.",
+    "required_skills": [
+      "Lambda",
+      "Redux",
+      "PHP",
+      "Shell Scripting",
+      "Recoil"
+    ],
+    "nice_to_have_skills": [
+      "Cloud Security",
+      "Deep Learning",
+      "R"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_70",
+    "title": "Principal Cloud Architect",
+    "description": "We are looking for a Principal Cloud Architect to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Cassandra, COBOL, PyTorch, Penetration Testing, Kotlin.",
+    "required_skills": [
+      "Cassandra",
+      "COBOL",
+      "PyTorch",
+      "Penetration Testing",
+      "Kotlin"
+    ],
+    "nice_to_have_skills": [
+      "Scala",
+      "Express.js",
+      "Docker",
+      "Reinforcement Learning"
+    ],
+    "experience_level": "Principal"
+  },
+  {
+    "id": "jd_71",
+    "title": "Staff Frontend Developer",
+    "description": "We are looking for a Staff Frontend Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Cassandra, AWS, Java, Elasticsearch, Fargate, Laravel, JavaScript.",
+    "required_skills": [
+      "Cassandra",
+      "AWS",
+      "Java",
+      "Elasticsearch",
+      "Fargate",
+      "Laravel",
+      "JavaScript"
+    ],
+    "nice_to_have_skills": [
+      "Istio",
+      "Haskell"
+    ],
+    "experience_level": "Staff"
+  },
+  {
+    "id": "jd_72",
+    "title": "Principal Software Engineer",
+    "description": "We are looking for a Principal Software Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Ruby, Ansible, Java, Nmap, Scala, React.",
+    "required_skills": [
+      "Ruby",
+      "Ansible",
+      "Java",
+      "Nmap",
+      "Scala",
+      "React"
+    ],
+    "nice_to_have_skills": [
+      "COBOL",
+      "Prometheus",
+      "MobX"
+    ],
+    "experience_level": "Principal"
+  },
+  {
+    "id": "jd_73",
+    "title": "Senior Full Stack Developer",
+    "description": "We are looking for a Senior Full Stack Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Cassandra, Backbone.js, Metasploit, Tailwind CSS, Python, Terraform.",
+    "required_skills": [
+      "Cassandra",
+      "Backbone.js",
+      "Metasploit",
+      "Tailwind CSS",
+      "Python",
+      "Terraform"
+    ],
+    "nice_to_have_skills": [
+      "Fastify",
+      "Redshift",
+      "Svelte",
+      "Network Security"
+    ],
+    "experience_level": "Senior"
+  },
+  {
+    "id": "jd_74",
+    "title": "Junior System Administrator",
+    "description": "We are looking for a Junior System Administrator to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using C#, Tailwind CSS, Redux, S3, Next.js, C++, Rust.",
+    "required_skills": [
+      "C#",
+      "Tailwind CSS",
+      "Redux",
+      "S3",
+      "Next.js",
+      "C++",
+      "Rust"
+    ],
+    "nice_to_have_skills": [
+      "MySQL",
+      "ClickHouse"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_75",
+    "title": "Junior Cybersecurity Analyst",
+    "description": "We are looking for a Junior Cybersecurity Analyst to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using DynamoDB, Spacy, Next.js, CSS3.",
+    "required_skills": [
+      "DynamoDB",
+      "Spacy",
+      "Next.js",
+      "CSS3"
+    ],
+    "nice_to_have_skills": [
+      "Wireshark",
+      "Shell Scripting",
+      "C#",
+      "Vuex"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_76",
+    "title": "Junior Quality Assurance Engineer",
+    "description": "We are looking for a Junior Quality Assurance Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Koa, Solidity, Deep Learning, Java, Hapi.",
+    "required_skills": [
+      "Koa",
+      "Solidity",
+      "Deep Learning",
+      "Java",
+      "Hapi"
+    ],
+    "nice_to_have_skills": [
+      "Cassandra",
+      "ASP.NET Core",
+      "PyTorch"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_77",
+    "title": "Junior System Administrator",
+    "description": "We are looking for a Junior System Administrator to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Scikit-learn, Rust, Vyper, Redis, Penetration Testing, Gensim, Redux.",
+    "required_skills": [
+      "Scikit-learn",
+      "Rust",
+      "Vyper",
+      "Redis",
+      "Penetration Testing",
+      "Gensim",
+      "Redux"
+    ],
+    "nice_to_have_skills": [
+      "ELK Stack",
+      "Elasticsearch"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_78",
+    "title": "Junior Cybersecurity Analyst",
+    "description": "We are looking for a Junior Cybersecurity Analyst to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Fastify, Fiber, ClickHouse, COBOL, Nmap, Python, ArangoDB.",
+    "required_skills": [
+      "Fastify",
+      "Fiber",
+      "ClickHouse",
+      "COBOL",
+      "Nmap",
+      "Python",
+      "ArangoDB"
+    ],
+    "nice_to_have_skills": [
+      "Gin",
+      "GitHub Actions",
+      "Jenkins",
+      "Application Security"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_79",
+    "title": "Junior Backend Engineer",
+    "description": "We are looking for a Junior Backend Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using GitHub Actions, Haskell, Nuxt.js, Hugging Face.",
+    "required_skills": [
+      "GitHub Actions",
+      "Haskell",
+      "Nuxt.js",
+      "Hugging Face"
+    ],
+    "nice_to_have_skills": [
+      "Nmap",
+      "Fargate",
+      "MongoDB"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_80",
+    "title": "Lead Backend Engineer",
+    "description": "We are looking for a Lead Backend Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using HTML5, Svelte, NLP, Express.js, Wireshark.",
+    "required_skills": [
+      "HTML5",
+      "Svelte",
+      "NLP",
+      "Express.js",
+      "Wireshark"
+    ],
+    "nice_to_have_skills": [
+      "Penetration Testing",
+      "Deep Learning",
+      "NumPy"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_81",
+    "title": "Senior Cybersecurity Analyst",
+    "description": "We are looking for a Senior Cybersecurity Analyst to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Java, Backbone.js, Ruby on Rails, TypeScript, Scala, Seaborn.",
+    "required_skills": [
+      "Java",
+      "Backbone.js",
+      "Ruby on Rails",
+      "TypeScript",
+      "Scala",
+      "Seaborn"
+    ],
+    "nice_to_have_skills": [
+      "Phoenix",
+      "Haskell",
+      "NumPy"
+    ],
+    "experience_level": "Senior"
+  },
+  {
+    "id": "jd_82",
+    "title": "Junior Backend Engineer",
+    "description": "We are looking for a Junior Backend Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Perl, BigQuery, Hugging Face, Wireshark.",
+    "required_skills": [
+      "Perl",
+      "BigQuery",
+      "Hugging Face",
+      "Wireshark"
+    ],
+    "nice_to_have_skills": [
+      "Fargate",
+      "ArangoDB",
+      "Scikit-learn",
+      "SASS"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_83",
+    "title": "Lead Data Scientist",
+    "description": "We are looking for a Lead Data Scientist to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Bootstrap, Vuex, Julia, Swift, Application Security, Fiber.",
+    "required_skills": [
+      "Bootstrap",
+      "Vuex",
+      "Julia",
+      "Swift",
+      "Application Security",
+      "Fiber"
+    ],
+    "nice_to_have_skills": [
+      "Redux",
+      "MLOps",
+      "LangChain"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_84",
+    "title": "Senior Quality Assurance Engineer",
+    "description": "We are looking for a Senior Quality Assurance Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Ember.js, Metasploit, Matplotlib, LangChain, Nmap.",
+    "required_skills": [
+      "Ember.js",
+      "Metasploit",
+      "Matplotlib",
+      "LangChain",
+      "Nmap"
+    ],
+    "nice_to_have_skills": [
+      "NumPy",
+      "Haskell",
+      "Fastify"
+    ],
+    "experience_level": "Senior"
+  },
+  {
+    "id": "jd_85",
+    "title": "Principal Frontend Developer",
+    "description": "We are looking for a Principal Frontend Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Spacy, GitHub Actions, Echo, Ansible.",
+    "required_skills": [
+      "Spacy",
+      "GitHub Actions",
+      "Echo",
+      "Ansible"
+    ],
+    "nice_to_have_skills": [
+      "Application Security",
+      "LESS"
+    ],
+    "experience_level": "Principal"
+  },
+  {
+    "id": "jd_86",
+    "title": "Senior Cloud Architect",
+    "description": "We are looking for a Senior Cloud Architect to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using IDS/IPS, Azure, Vuex, Istio, Python.",
+    "required_skills": [
+      "IDS/IPS",
+      "Azure",
+      "Vuex",
+      "Istio",
+      "Python"
+    ],
+    "nice_to_have_skills": [
+      "Linkerd",
+      "Cryptography",
+      "MLOps",
+      "AWS"
+    ],
+    "experience_level": "Senior"
+  },
+  {
+    "id": "jd_87",
+    "title": "Senior Cybersecurity Analyst",
+    "description": "We are looking for a Senior Cybersecurity Analyst to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Jenkins, ClickHouse, Nuxt.js, JavaScript, Pandas, Solidity, Cloud Security.",
+    "required_skills": [
+      "Jenkins",
+      "ClickHouse",
+      "Nuxt.js",
+      "JavaScript",
+      "Pandas",
+      "Solidity",
+      "Cloud Security"
+    ],
+    "nice_to_have_skills": [
+      "Neo4j",
+      "MLflow"
+    ],
+    "experience_level": "Senior"
+  },
+  {
+    "id": "jd_88",
+    "title": "Junior Quality Assurance Engineer",
+    "description": "We are looking for a Junior Quality Assurance Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using IDS/IPS, Svelte, Nmap, SQLite, HTML5, Computer Vision.",
+    "required_skills": [
+      "IDS/IPS",
+      "Svelte",
+      "Nmap",
+      "SQLite",
+      "HTML5",
+      "Computer Vision"
+    ],
+    "nice_to_have_skills": [
+      "ClickHouse",
+      "GitLab CI",
+      "DynamoDB"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_89",
+    "title": "Lead Mobile App Developer",
+    "description": "We are looking for a Lead Mobile App Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using JavaScript, Ruby, COBOL, Jenkins, React.",
+    "required_skills": [
+      "JavaScript",
+      "Ruby",
+      "COBOL",
+      "Jenkins",
+      "React"
+    ],
+    "nice_to_have_skills": [
+      "R",
+      "MLflow",
+      "Haskell"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_90",
+    "title": "Junior Product Manager",
+    "description": "We are looking for a Junior Product Manager to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using LangChain, CSS3, Erlang, NestJS, OpenCV, Machine Learning.",
+    "required_skills": [
+      "LangChain",
+      "CSS3",
+      "Erlang",
+      "NestJS",
+      "OpenCV",
+      "Machine Learning"
+    ],
+    "nice_to_have_skills": [
+      "Penetration Testing",
+      "Go",
+      "Neo4j"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_91",
+    "title": "Principal Cybersecurity Analyst",
+    "description": "We are looking for a Principal Cybersecurity Analyst to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using React, C++, Ruby on Rails, NLTK, RDS, MLflow.",
+    "required_skills": [
+      "React",
+      "C++",
+      "Ruby on Rails",
+      "NLTK",
+      "RDS",
+      "MLflow"
+    ],
+    "nice_to_have_skills": [
+      "Metasploit",
+      "ClickHouse",
+      "S3"
+    ],
+    "experience_level": "Principal"
+  },
+  {
+    "id": "jd_92",
+    "title": "Staff Product Manager",
+    "description": "We are looking for a Staff Product Manager to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Wireshark, BigQuery, SQL Server, Haskell, Ansible.",
+    "required_skills": [
+      "Wireshark",
+      "BigQuery",
+      "SQL Server",
+      "Haskell",
+      "Ansible"
+    ],
+    "nice_to_have_skills": [
+      "Scikit-learn",
+      "Snowflake"
+    ],
+    "experience_level": "Staff"
+  },
+  {
+    "id": "jd_93",
+    "title": "Senior Quality Assurance Engineer",
+    "description": "We are looking for a Senior Quality Assurance Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using SIEM, Go, C++, Perl, Pulumi, Ruby, Lambda.",
+    "required_skills": [
+      "SIEM",
+      "Go",
+      "C++",
+      "Perl",
+      "Pulumi",
+      "Ruby",
+      "Lambda"
+    ],
+    "nice_to_have_skills": [
+      "Express.js",
+      "Network Security",
+      "Terraform",
+      "Phoenix"
+    ],
+    "experience_level": "Senior"
+  },
+  {
+    "id": "jd_94",
+    "title": "Staff DevOps Engineer",
+    "description": "We are looking for a Staff DevOps Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Kotlin, Oracle, Zustand, Penetration Testing, COBOL.",
+    "required_skills": [
+      "Kotlin",
+      "Oracle",
+      "Zustand",
+      "Penetration Testing",
+      "COBOL"
+    ],
+    "nice_to_have_skills": [
+      "R",
+      "Terraform"
+    ],
+    "experience_level": "Staff"
+  },
+  {
+    "id": "jd_95",
+    "title": "Staff Product Manager",
+    "description": "We are looking for a Staff Product Manager to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Assembly, F#, Reinforcement Learning, Erlang, SASS, ClickHouse, MobX.",
+    "required_skills": [
+      "Assembly",
+      "F#",
+      "Reinforcement Learning",
+      "Erlang",
+      "SASS",
+      "ClickHouse",
+      "MobX"
+    ],
+    "nice_to_have_skills": [
+      "WebAssembly",
+      "Istio",
+      "Angular"
+    ],
+    "experience_level": "Staff"
+  },
+  {
+    "id": "jd_96",
+    "title": "Junior Frontend Developer",
+    "description": "We are looking for a Junior Frontend Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Spring Boot, Ethical Hacking, Seaborn, Vue.js, Django, Reinforcement Learning, Kubeflow.",
+    "required_skills": [
+      "Spring Boot",
+      "Ethical Hacking",
+      "Seaborn",
+      "Vue.js",
+      "Django",
+      "Reinforcement Learning",
+      "Kubeflow"
+    ],
+    "nice_to_have_skills": [
+      "HTML5",
+      "Python",
+      "SASS",
+      "CircleCI"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_97",
+    "title": "Staff Software Engineer",
+    "description": "We are looking for a Staff Software Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using MobX, Network Security, Django, Koa, Objective-C, Computer Vision.",
+    "required_skills": [
+      "MobX",
+      "Network Security",
+      "Django",
+      "Koa",
+      "Objective-C",
+      "Computer Vision"
+    ],
+    "nice_to_have_skills": [
+      "Zero Trust",
+      "Elasticsearch"
+    ],
+    "experience_level": "Staff"
+  },
+  {
+    "id": "jd_98",
+    "title": "Lead Product Manager",
+    "description": "We are looking for a Lead Product Manager to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using MongoDB, Bootstrap, Machine Learning, Grafana, Hapi, Next.js, Angular.",
+    "required_skills": [
+      "MongoDB",
+      "Bootstrap",
+      "Machine Learning",
+      "Grafana",
+      "Hapi",
+      "Next.js",
+      "Angular"
+    ],
+    "nice_to_have_skills": [
+      "Shell Scripting",
+      "Julia"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_99",
+    "title": "Staff Mobile App Developer",
+    "description": "We are looking for a Staff Mobile App Developer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Echo, GitLab CI, COBOL, Penetration Testing, Wireshark, ArangoDB.",
+    "required_skills": [
+      "Echo",
+      "GitLab CI",
+      "COBOL",
+      "Penetration Testing",
+      "Wireshark",
+      "ArangoDB"
+    ],
+    "nice_to_have_skills": [
+      "Pinia",
+      "SASS"
+    ],
+    "experience_level": "Staff"
+  },
+  {
+    "id": "jd_100",
+    "title": "Staff DevOps Engineer",
+    "description": "We are looking for a Staff DevOps Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Backbone.js, Docker, Ruby, Identity Management, Prometheus, MLOps.",
+    "required_skills": [
+      "Backbone.js",
+      "Docker",
+      "Ruby",
+      "Identity Management",
+      "Prometheus",
+      "MLOps"
+    ],
+    "nice_to_have_skills": [
+      "LangChain",
+      "Kubeflow",
+      "Scala"
+    ],
+    "experience_level": "Staff"
+  },
+  {
+    "id": "jd_101",
+    "title": "Lead Cloud Architect",
+    "description": "We are looking for a Lead Cloud Architect to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using MLOps, Scala, ClickHouse, R, LLMs, Perl.",
+    "required_skills": [
+      "MLOps",
+      "Scala",
+      "ClickHouse",
+      "R",
+      "LLMs",
+      "Perl"
+    ],
+    "nice_to_have_skills": [
+      "Kubeflow",
+      "Go"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_102",
+    "title": "Staff Data Engineer",
+    "description": "We are looking for a Staff Data Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Swift, Solidity, Metasploit, GitHub Actions.",
+    "required_skills": [
+      "Swift",
+      "Solidity",
+      "Metasploit",
+      "GitHub Actions"
+    ],
+    "nice_to_have_skills": [
+      "MLOps",
+      "SQLite",
+      "Express.js",
+      "NestJS"
+    ],
+    "experience_level": "Staff"
+  },
+  {
+    "id": "jd_103",
+    "title": "Principal Cybersecurity Analyst",
+    "description": "We are looking for a Principal Cybersecurity Analyst to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using DynamoDB, Prolog, Neo4j, ASP.NET Core, NLP, Gensim, EC2.",
+    "required_skills": [
+      "DynamoDB",
+      "Prolog",
+      "Neo4j",
+      "ASP.NET Core",
+      "NLP",
+      "Gensim",
+      "EC2"
+    ],
+    "nice_to_have_skills": [
+      "HTML5",
+      "Spacy",
+      "WebAssembly",
+      "Linkerd"
+    ],
+    "experience_level": "Principal"
+  },
+  {
+    "id": "jd_104",
+    "title": "Junior System Administrator",
+    "description": "We are looking for a Junior System Administrator to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Fargate, C#, TensorFlow, Haskell, Three.js.",
+    "required_skills": [
+      "Fargate",
+      "C#",
+      "TensorFlow",
+      "Haskell",
+      "Three.js"
+    ],
+    "nice_to_have_skills": [
+      "CSS3",
+      "GCP",
+      "FastAPI"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_105",
+    "title": "Lead Cloud Architect",
+    "description": "We are looking for a Lead Cloud Architect to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Identity Management, MATLAB, Swift, MLOps, Redshift, GitHub Actions.",
+    "required_skills": [
+      "Identity Management",
+      "MATLAB",
+      "Swift",
+      "MLOps",
+      "Redshift",
+      "GitHub Actions"
+    ],
+    "nice_to_have_skills": [
+      "SASS",
+      "Go",
+      "HTML5",
+      "Flask"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_106",
+    "title": "Junior DevOps Engineer",
+    "description": "We are looking for a Junior DevOps Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Vyper, Redshift, Grafana, LLMs, Scikit-learn.",
+    "required_skills": [
+      "Vyper",
+      "Redshift",
+      "Grafana",
+      "LLMs",
+      "Scikit-learn"
+    ],
+    "nice_to_have_skills": [
+      "ClickHouse",
+      "Lambda"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_107",
+    "title": "Junior DevOps Engineer",
+    "description": "We are looking for a Junior DevOps Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using Pulumi, Fortran, MariaDB, SQLite, Gensim, LESS, MongoDB.",
+    "required_skills": [
+      "Pulumi",
+      "Fortran",
+      "MariaDB",
+      "SQLite",
+      "Gensim",
+      "LESS",
+      "MongoDB"
+    ],
+    "nice_to_have_skills": [
+      "ELK Stack",
+      "C++",
+      "Cassandra",
+      "Ansible"
+    ],
+    "experience_level": "Junior"
+  },
+  {
+    "id": "jd_108",
+    "title": "Lead Data Scientist",
+    "description": "We are looking for a Lead Data Scientist to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using SIEM, Seaborn, GCP, Linkerd, LESS, NumPy.",
+    "required_skills": [
+      "SIEM",
+      "Seaborn",
+      "GCP",
+      "Linkerd",
+      "LESS",
+      "NumPy"
+    ],
+    "nice_to_have_skills": [
+      "Assembly",
+      "Scala",
+      "Identity Management"
+    ],
+    "experience_level": "Lead"
+  },
+  {
+    "id": "jd_109",
+    "title": "Principal Backend Engineer",
+    "description": "We are looking for a Principal Backend Engineer to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using MobX, BigQuery, TypeScript, Echo, Gin, Fargate.",
+    "required_skills": [
+      "MobX",
+      "BigQuery",
+      "TypeScript",
+      "Echo",
+      "Gin",
+      "Fargate"
+    ],
+    "nice_to_have_skills": [
+      "Lambda",
+      "Ansible"
+    ],
+    "experience_level": "Principal"
+  },
+  {
+    "id": "jd_110",
+    "title": "Junior Cloud Architect",
+    "description": "We are looking for a Junior Cloud Architect to join our growing team. You will be responsible for building scalable systems and collaborating with cross-functional teams using LangChain, Gensim, MLflow, Tailwind CSS.",
+    "required_skills": [
+      "LangChain",
+      "Gensim",
+      "MLflow",
+      "Tailwind CSS"
+    ],
+    "nice_to_have_skills": [
+      "DynamoDB",
+      "Deep Learning"
+    ],
+    "experience_level": "Junior"
+  }
+]

@@ -1,0 +1,17 @@
+David Davis
+Email: david.davis516@example.com
+Location: Seattle
+
+Summary
+Experienced professional with expertise in Penetration Testing, Objective-C, Pulumi.
+
+Skills
+Penetration Testing, Objective-C, Pulumi, Django, Svelte, BigQuery, C#, Next.js, Flask, Ember.js
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Penetration Testing.
+- Implemented solutions in Objective-C.
+
+Education
+BS Computer Science | Tech University | 2014-2018

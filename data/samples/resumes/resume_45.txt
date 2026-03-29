@@ -1,0 +1,17 @@
+Grace Miller
+Email: grace.miller44@example.com
+Location: New York
+
+Summary
+Experienced professional with expertise in Koa, Zustand, Application Security.
+
+Skills
+Koa, Zustand, Application Security, MySQL, Metasploit, Cloud Security, C++, Deep Learning, Wireshark, Prolog
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Koa.
+- Implemented solutions in Zustand.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Heidi Davis
+Email: heidi.davis186@example.com
+Location: Remote
+
+Summary
+Experienced professional with expertise in Express.js, Julia, JavaScript.
+
+Skills
+Express.js, Julia, JavaScript, Cloud Security, Redux, LLMs, Seaborn, Reinforcement Learning, Ansible, Oracle
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Express.js.
+- Implemented solutions in Julia.
+
+Education
+BS Computer Science | Tech University | 2014-2018

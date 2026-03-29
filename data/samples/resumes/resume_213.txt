@@ -1,0 +1,17 @@
+Frank Rodriguez
+Email: frank.rodriguez212@example.com
+Location: Berlin
+
+Summary
+Experienced professional with expertise in TypeScript, Flask, MongoDB.
+
+Skills
+TypeScript, Flask, MongoDB, R, Metasploit, Application Security, Cassandra, Haskell, Elasticsearch, DynamoDB, Neo4j
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using TypeScript.
+- Implemented solutions in Flask.
+
+Education
+BS Computer Science | Tech University | 2014-2018

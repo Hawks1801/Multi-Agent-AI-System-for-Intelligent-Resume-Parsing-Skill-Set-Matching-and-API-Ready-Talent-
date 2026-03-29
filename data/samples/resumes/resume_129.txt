@@ -1,0 +1,17 @@
+Judy Davis
+Email: judy.davis128@example.com
+Location: New York
+
+Summary
+Experienced professional with expertise in PostgreSQL, Fortran, WebAssembly.
+
+Skills
+PostgreSQL, Fortran, WebAssembly, Identity Management, ArangoDB, SIEM, ELK Stack, C#, Cloud Run, F#, SQL Server
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using PostgreSQL.
+- Implemented solutions in Fortran.
+
+Education
+BS Computer Science | Tech University | 2014-2018

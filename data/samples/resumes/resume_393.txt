@@ -1,0 +1,17 @@
+Judy Rodriguez
+Email: judy.rodriguez392@example.com
+Location: Remote
+
+Summary
+Experienced professional with expertise in Fargate, Django, Terraform.
+
+Skills
+Fargate, Django, Terraform, LESS, Snowflake, PHP, Laravel, RDS, SASS, Jenkins, S3
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Fargate.
+- Implemented solutions in Django.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Judy Martinez
+Email: judy.martinez130@example.com
+Location: New York
+
+Summary
+Experienced professional with expertise in Zero Trust, Oracle, NestJS.
+
+Skills
+Zero Trust, Oracle, NestJS, Scikit-learn, Dart, PostgreSQL, Prolog, COBOL, TensorFlow, Vue.js, AWS
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Zero Trust.
+- Implemented solutions in Oracle.
+
+Education
+BS Computer Science | Tech University | 2014-2018

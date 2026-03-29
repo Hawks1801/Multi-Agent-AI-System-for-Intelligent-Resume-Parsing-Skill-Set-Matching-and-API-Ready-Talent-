@@ -1,0 +1,17 @@
+Judy Martinez
+Email: judy.martinez440@example.com
+Location: Sydney
+
+Summary
+Experienced professional with expertise in Cloud Run, Linkerd, Kotlin.
+
+Skills
+Cloud Run, Linkerd, Kotlin, Assembly, MLflow, CSS3
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Cloud Run.
+- Implemented solutions in Linkerd.
+
+Education
+BS Computer Science | Tech University | 2014-2018

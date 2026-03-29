@@ -1,0 +1,17 @@
+David Williams
+Email: david.williams222@example.com
+Location: San Francisco
+
+Summary
+Experienced professional with expertise in Express.js, Jenkins, C++.
+
+Skills
+Express.js, Jenkins, C++, Redux, Hugging Face, SIEM, Matplotlib, Serverless, Kubernetes, Cloud Security, EC2
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Express.js.
+- Implemented solutions in Jenkins.
+
+Education
+BS Computer Science | Tech University | 2014-2018

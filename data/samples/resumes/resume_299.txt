@@ -1,0 +1,17 @@
+Grace Davis
+Email: grace.davis298@example.com
+Location: Austin
+
+Summary
+Experienced professional with expertise in Scikit-learn, C++, Computer Vision.
+
+Skills
+Scikit-learn, C++, Computer Vision, React, Serverless, Vyper, Recoil, ELK Stack, Svelte
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Scikit-learn.
+- Implemented solutions in C++.
+
+Education
+BS Computer Science | Tech University | 2014-2018

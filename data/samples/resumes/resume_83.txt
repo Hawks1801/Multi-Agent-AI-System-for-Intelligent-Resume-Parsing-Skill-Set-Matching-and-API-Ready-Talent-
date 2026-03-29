@@ -1,0 +1,17 @@
+David Jones
+Email: david.jones82@example.com
+Location: Berlin
+
+Summary
+Experienced professional with expertise in Redis, HTML5, Prolog.
+
+Skills
+Redis, HTML5, Prolog, DynamoDB, Flask
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Redis.
+- Implemented solutions in HTML5.
+
+Education
+BS Computer Science | Tech University | 2014-2018

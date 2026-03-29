@@ -1,0 +1,17 @@
+Judy Williams
+Email: judy.williams34@example.com
+Location: Austin
+
+Summary
+Experienced professional with expertise in Gin, Django, MariaDB.
+
+Skills
+Gin, Django, MariaDB, Identity Management, Bootstrap, Nmap, DynamoDB, Fiber, MySQL
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Gin.
+- Implemented solutions in Django.
+
+Education
+BS Computer Science | Tech University | 2014-2018

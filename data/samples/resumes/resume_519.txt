@@ -1,0 +1,17 @@
+Heidi Brown
+Email: heidi.brown518@example.com
+Location: Berlin
+
+Summary
+Experienced professional with expertise in Dart, Nmap, Pulumi.
+
+Skills
+Dart, Nmap, Pulumi, IDS/IPS, Svelte, Network Security, Azure, Scala, Solidity, Lisp, LLMs
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Dart.
+- Implemented solutions in Nmap.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Eve Miller
+Email: eve.miller200@example.com
+Location: Sydney
+
+Summary
+Experienced professional with expertise in Java, ASP.NET Core, HTML5.
+
+Skills
+Java, ASP.NET Core, HTML5, Node.js, Fargate, Lambda, Rust, Laravel, Pinia, React
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Java.
+- Implemented solutions in ASP.NET Core.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Judy Davis
+Email: judy.davis280@example.com
+Location: San Francisco
+
+Summary
+Experienced professional with expertise in Angular, NestJS, Nuxt.js.
+
+Skills
+Angular, NestJS, Nuxt.js, RDS, Vuex
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Angular.
+- Implemented solutions in NestJS.
+
+Education
+BS Computer Science | Tech University | 2014-2018

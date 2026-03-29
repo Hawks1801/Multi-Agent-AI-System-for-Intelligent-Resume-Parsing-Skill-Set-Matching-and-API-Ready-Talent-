@@ -1,0 +1,17 @@
+Frank Johnson
+Email: frank.johnson226@example.com
+Location: New York
+
+Summary
+Experienced professional with expertise in Erlang, Oracle, Penetration Testing.
+
+Skills
+Erlang, Oracle, Penetration Testing, Three.js, HTML5, Flask, Swift, Angular, ELK Stack, Dart, Metasploit, Nmap
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Erlang.
+- Implemented solutions in Oracle.
+
+Education
+BS Computer Science | Tech University | 2014-2018

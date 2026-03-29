@@ -1,0 +1,17 @@
+Judy Jones
+Email: judy.jones6@example.com
+Location: Toronto
+
+Summary
+Experienced professional with expertise in ClickHouse, PHP, ELK Stack.
+
+Skills
+ClickHouse, PHP, ELK Stack, Fiber, Fastify, Docker
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using ClickHouse.
+- Implemented solutions in PHP.
+
+Education
+BS Computer Science | Tech University | 2014-2018

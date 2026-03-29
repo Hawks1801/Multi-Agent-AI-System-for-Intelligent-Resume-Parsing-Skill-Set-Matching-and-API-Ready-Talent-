@@ -1,0 +1,17 @@
+Frank Brown
+Email: frank.brown54@example.com
+Location: Austin
+
+Summary
+Experienced professional with expertise in Istio, Zero Trust, Spacy.
+
+Skills
+Istio, Zero Trust, Spacy, Keras, RDS
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Istio.
+- Implemented solutions in Zero Trust.
+
+Education
+BS Computer Science | Tech University | 2014-2018

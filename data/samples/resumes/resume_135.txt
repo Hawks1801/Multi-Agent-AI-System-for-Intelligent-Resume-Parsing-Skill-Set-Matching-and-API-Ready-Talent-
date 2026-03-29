@@ -1,0 +1,17 @@
+Judy Miller
+Email: judy.miller134@example.com
+Location: Seattle
+
+Summary
+Experienced professional with expertise in Svelte, RDS, Go.
+
+Skills
+Svelte, RDS, Go, MongoDB, ClickHouse, Redux
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Svelte.
+- Implemented solutions in RDS.
+
+Education
+BS Computer Science | Tech University | 2014-2018

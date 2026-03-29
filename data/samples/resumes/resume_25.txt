@@ -1,0 +1,17 @@
+Eve Smith
+Email: eve.smith24@example.com
+Location: San Francisco
+
+Summary
+Experienced professional with expertise in Vue.js, Serverless, MySQL.
+
+Skills
+Vue.js, Serverless, MySQL, Python, Penetration Testing, MariaDB, TypeScript
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Vue.js.
+- Implemented solutions in Serverless.
+
+Education
+BS Computer Science | Tech University | 2014-2018

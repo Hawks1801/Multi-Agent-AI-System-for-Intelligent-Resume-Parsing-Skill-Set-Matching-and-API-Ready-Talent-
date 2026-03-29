@@ -1,0 +1,17 @@
+Charlie Brown
+Email: charlie.brown264@example.com
+Location: San Francisco
+
+Summary
+Experienced professional with expertise in Objective-C, Django, Neo4j.
+
+Skills
+Objective-C, Django, Neo4j, LLMs, Haskell, Spacy, Erlang, NumPy, Recoil
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Objective-C.
+- Implemented solutions in Django.
+
+Education
+BS Computer Science | Tech University | 2014-2018

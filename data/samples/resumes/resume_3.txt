@@ -1,0 +1,17 @@
+Heidi Martinez
+Email: heidi.martinez2@example.com
+Location: Berlin
+
+Summary
+Experienced professional with expertise in Serverless, Cassandra, C#.
+
+Skills
+Serverless, Cassandra, C#, Ansible, Rust, NestJS, BigQuery, Angular, TensorFlow, NLTK
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Serverless.
+- Implemented solutions in Cassandra.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Judy Johnson
+Email: judy.johnson60@example.com
+Location: Remote
+
+Summary
+Experienced professional with expertise in Keras, Spacy, ClickHouse.
+
+Skills
+Keras, Spacy, ClickHouse, GitHub Actions, Ruby on Rails, LESS, OpenCV, Fortran, Haskell, CSS3
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Keras.
+- Implemented solutions in Spacy.
+
+Education
+BS Computer Science | Tech University | 2014-2018

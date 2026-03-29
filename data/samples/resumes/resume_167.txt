@@ -1,0 +1,17 @@
+Eve Garcia
+Email: eve.garcia166@example.com
+Location: Seattle
+
+Summary
+Experienced professional with expertise in Angular, OpenCV, SQLite.
+
+Skills
+Angular, OpenCV, SQLite, Machine Learning, Application Security, Objective-C, PHP, NLTK, Phoenix, Zero Trust, MobX, Matplotlib
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Angular.
+- Implemented solutions in OpenCV.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Frank Martinez
+Email: frank.martinez84@example.com
+Location: Remote
+
+Summary
+Experienced professional with expertise in C#, Network Security, Gin.
+
+Skills
+C#, Network Security, Gin, AWS, Kubeflow, DynamoDB, Machine Learning
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using C#.
+- Implemented solutions in Network Security.
+
+Education
+BS Computer Science | Tech University | 2014-2018

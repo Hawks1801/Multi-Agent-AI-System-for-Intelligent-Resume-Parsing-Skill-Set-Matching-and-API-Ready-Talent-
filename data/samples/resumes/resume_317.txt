@@ -1,0 +1,17 @@
+Charlie Garcia
+Email: charlie.garcia316@example.com
+Location: Remote
+
+Summary
+Experienced professional with expertise in Kotlin, Redis, Cloud Security.
+
+Skills
+Kotlin, Redis, Cloud Security, Computer Vision, TypeScript, C#, Ruby, Perl, Prometheus, NestJS
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Kotlin.
+- Implemented solutions in Redis.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Heidi Jones
+Email: heidi.jones370@example.com
+Location: Seattle
+
+Summary
+Experienced professional with expertise in React, COBOL, Matplotlib.
+
+Skills
+React, COBOL, Matplotlib, Lambda, Solidity, EC2, Kubernetes, JavaScript, NLP, Wireshark
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using React.
+- Implemented solutions in COBOL.
+
+Education
+BS Computer Science | Tech University | 2014-2018

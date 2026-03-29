@@ -1,0 +1,17 @@
+Grace Johnson
+Email: grace.johnson398@example.com
+Location: Remote
+
+Summary
+Experienced professional with expertise in Ruby on Rails, NestJS, LESS.
+
+Skills
+Ruby on Rails, NestJS, LESS, Assembly, Zustand
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Ruby on Rails.
+- Implemented solutions in NestJS.
+
+Education
+BS Computer Science | Tech University | 2014-2018

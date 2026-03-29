@@ -1,0 +1,17 @@
+Charlie Johnson
+Email: charlie.johnson256@example.com
+Location: London
+
+Summary
+Experienced professional with expertise in Prolog, JavaScript, R.
+
+Skills
+Prolog, JavaScript, R, Cassandra, LLMs, RDS, DynamoDB, Prometheus, Kubeflow, GitHub Actions, Dart
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Prolog.
+- Implemented solutions in JavaScript.
+
+Education
+BS Computer Science | Tech University | 2014-2018

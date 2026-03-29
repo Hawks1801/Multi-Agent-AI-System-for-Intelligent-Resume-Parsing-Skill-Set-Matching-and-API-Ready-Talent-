@@ -1,0 +1,17 @@
+Alice Johnson
+Email: alice.johnson362@example.com
+Location: Toronto
+
+Summary
+Experienced professional with expertise in Python, Assembly, Kotlin.
+
+Skills
+Python, Assembly, Kotlin, Koa, SIEM, Scala, SQL Server, Spring Boot
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Python.
+- Implemented solutions in Assembly.
+
+Education
+BS Computer Science | Tech University | 2014-2018

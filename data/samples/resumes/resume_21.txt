@@ -1,0 +1,17 @@
+Grace Martinez
+Email: grace.martinez20@example.com
+Location: San Francisco
+
+Summary
+Experienced professional with expertise in OpenCV, Next.js, Docker.
+
+Skills
+OpenCV, Next.js, Docker, Python, Haskell, Computer Vision, Matplotlib, Ruby on Rails
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using OpenCV.
+- Implemented solutions in Next.js.
+
+Education
+BS Computer Science | Tech University | 2014-2018

@@ -1,0 +1,17 @@
+Judy Johnson
+Email: judy.johnson506@example.com
+Location: Toronto
+
+Summary
+Experienced professional with expertise in Rust, S3, Nuxt.js.
+
+Skills
+Rust, S3, Nuxt.js, Azure, ELK Stack, SQL Server, Swift, CircleCI, Metasploit, Prolog, Tailwind CSS
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Rust.
+- Implemented solutions in S3.
+
+Education
+BS Computer Science | Tech University | 2014-2018

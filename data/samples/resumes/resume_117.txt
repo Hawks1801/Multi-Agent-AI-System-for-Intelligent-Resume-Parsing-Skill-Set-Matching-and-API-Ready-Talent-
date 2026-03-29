@@ -1,0 +1,17 @@
+Alice Rodriguez
+Email: alice.rodriguez116@example.com
+Location: Berlin
+
+Summary
+Experienced professional with expertise in Ruby on Rails, React, GCP.
+
+Skills
+Ruby on Rails, React, GCP, Scala, PHP, Haskell, Laravel, CSS3, FastAPI, Zero Trust, Computer Vision, Ethical Hacking
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Ruby on Rails.
+- Implemented solutions in React.
+
+Education
+BS Computer Science | Tech University | 2014-2018

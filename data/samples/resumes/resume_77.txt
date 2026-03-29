@@ -1,0 +1,17 @@
+Grace Davis
+Email: grace.davis76@example.com
+Location: Sydney
+
+Summary
+Experienced professional with expertise in Deep Learning, Computer Vision, Next.js.
+
+Skills
+Deep Learning, Computer Vision, Next.js, DynamoDB, Fiber, Machine Learning, Pulumi, RDS, Julia, Hugging Face, Angular
+
+Experience
+Lead Developer | Tech Corp | 2018-Present
+- Managed a team of engineers using Deep Learning.
+- Implemented solutions in Computer Vision.
+
+Education
+BS Computer Science | Tech University | 2014-2018
