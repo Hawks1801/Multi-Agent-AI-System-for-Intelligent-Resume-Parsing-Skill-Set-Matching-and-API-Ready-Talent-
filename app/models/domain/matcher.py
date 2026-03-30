@@ -19,4 +19,5 @@ class MatchResult(BaseModel):
     semantic_similarity: float
     missing_skills: List[SkillGap]
     strengths: List[str]
+    evidence: Dict[str, str] = Field(default_factory=dict, description="Explainable AI: Mapping of requirements to exact resume quotes")
     interview_plan: Optional[Any] = None # Will hold InterviewPlan

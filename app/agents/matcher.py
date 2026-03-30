@@ -55,6 +55,23 @@ class MatcherAgent:
             print(f"Error extracting JD skills: {e}")
             return []
 
+    def _generate_evidence(self, candidate_skills: List[str], required_skills: List[str], raw_text: str) -> Dict[str, str]:
+        """Maps required skills to specific quotes in the resume for Explainability."""
+        evidence = {}
+        if not raw_text: return evidence
+        
+        # Simple heuristic-based quote extractor (could be LLM-powered)
+        sentences = raw_text.replace("\n", ". ").split(". ")
+        for req in required_skills:
+            # Check if candidate has this skill
+            if req.lower() in [s.lower() for s in candidate_skills]:
+                # Find the best sentence containing the skill
+                for sentence in sentences:
+                    if req.lower() in sentence.lower() and len(sentence.strip()) > 5:
+                        evidence[req] = f"...{sentence.strip()}..."
+                        break
+        return evidence
+
     def calculate_match(self, candidate_data: Any, job_description: JobDescription) -> MatchResult:
         """Calculates semantic match score between candidate and JD."""
         
@@ -63,12 +80,15 @@ class MatcherAgent:
             job_description.required_skills = self._extract_jd_skills(job_description.description)
         
         # 2. Normalize and extract skills from candidate (handle dict or object)
+        raw_source_text = ""
         if isinstance(candidate_data, dict):
             skills_list = candidate_data.get("skills", [])
             candidate_id = candidate_data.get("full_name", "Unknown")
+            raw_source_text = candidate_data.get("raw_source_text", "")
         else:
             skills_list = candidate_data.skills
             candidate_id = candidate_data.full_name
+            raw_source_text = getattr(candidate_data, "raw_source_text", "")
 
         candidate_skills = []
         for s in skills_list:
@@ -88,6 +108,9 @@ class MatcherAgent:
         found_skills = [s for s in required_skills if s.lower() in [c.lower() for c in candidate_skills]]
         missing_skills = [s for s in required_skills if s.lower() not in [c.lower() for c in candidate_skills]]
         
+        # 6. Generate XAI Evidence
+        evidence = self._generate_evidence(candidate_skills, found_skills, raw_source_text)
+        
         # STRICTOR SCORING:
         # If no technical skills are provided/found in JD, default to 0.0 to prevent false positives
         if not required_skills:
@@ -103,7 +126,7 @@ class MatcherAgent:
         else:
             overall_score = (0.1 * semantic_sim) + (0.9 * skill_match_score)
         
-        # 6. Gap analysis
+        # 7. Gap analysis
         skill_gaps = []
         for missing in missing_skills:
             skill_gaps.append(SkillGap(
@@ -117,5 +140,6 @@ class MatcherAgent:
             skill_match_score=float(skill_match_score),
             semantic_similarity=float(semantic_sim),
             missing_skills=skill_gaps,
-            strengths=[s for s in found_skills]
+            strengths=[s for s in found_skills],
+            evidence=evidence
         )

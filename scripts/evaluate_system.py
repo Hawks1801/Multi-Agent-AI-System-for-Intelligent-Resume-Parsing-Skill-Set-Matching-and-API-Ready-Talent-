@@ -74,6 +74,11 @@ def evaluate_system():
         try:
             res = orchestrator.run(file_path=resume_path, job_description=jd)
             latency = time.time() - start_time
+            
+            if not res.get("match_result") or res.get("errors"):
+                print(f"❌ Error evaluating {res_id}: {res.get('errors')}")
+                continue
+                
             latencies.append(latency)
             
             # 1. Matching Accuracy
