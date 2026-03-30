@@ -12,7 +12,7 @@ An industrial-grade, agentic AI pipeline designed for global talent acquisition.
 ## 🛠️ Operational Stack
 
 *   **Agent Orchestration:** [LangGraph](https://github.com/langchain-ai/langgraph) (State machines for error-tolerant execution)
-*   **LLM Infrastructure:** Groq (Llama 3.3 / 3.1) for high-density reasoning
+*   **LLM Infrastructure:** Groq (Llama 3.3 / 3.1) for high-density reasoning (Transitioned from OpenAI for 10x faster inference)
 *   **Vector Core:** Sentence-Transformers for semantic embeddings
 *   **Backend:** FastAPI (Python 3.10+)
 *   **Frontend:** React (Single-file optimized dashboard)

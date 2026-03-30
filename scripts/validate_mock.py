@@ -5,7 +5,7 @@ from app.models.domain.matcher import JobDescription
 from app.models.domain.resume import ResumeData, Skill, Experience, Education
 from unittest.mock import MagicMock
 
-# 1. Create a Mock Parser that doesn't need OpenAI
+# 1. Create a Mock Parser that doesn't need Groq/LLM
 class MockParser:
     def parse(self, file_path: str) -> ResumeData:
         return ResumeData(

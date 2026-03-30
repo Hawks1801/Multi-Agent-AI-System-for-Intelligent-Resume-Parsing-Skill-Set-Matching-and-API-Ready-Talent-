@@ -92,7 +92,7 @@ class ParserAgent:
             )
 
         if not self.client:
-            raise ValueError("OpenAI API Key is not configured. ParserAgent cannot parse real files.")
+            raise ValueError("Groq API Key is not configured. ParserAgent cannot parse real files.")
         # 1. Extract text from the document
         raw_text = DocumentExtractor.extract_text(file_path)
         if not raw_text:

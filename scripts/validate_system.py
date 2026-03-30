@@ -66,6 +66,6 @@ def validate_system():
         print(f"Validation failed with exception: {str(e)}")
 
 if __name__ == "__main__":
-    if not os.getenv("OPENAI_API_KEY"):
-        print("WARNING: OPENAI_API_KEY not found in .env. LLM-based parsing may fail.")
+    if not os.getenv("GROQ_API_KEY"):
+        print("WARNING: GROQ_API_KEY not found in .env. LLM-based parsing may fail.")
     validate_system()
